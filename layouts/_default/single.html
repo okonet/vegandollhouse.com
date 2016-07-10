@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {{ partial "header.html" . }}
+  </head>
+  <body>
+    {{ partial "navigation.html" . }}
+
+    <div class="container">
+      {{ partial "share.html" . }}
+
+      <div class="main content">
+        {{ .Content }}
+      </div>
+
+      <div class="main comments">
+        {{ template "_internal/disqus.html" . }}
+      </div>
+    </div>
+
+    {{ partial "footer.html" }}
+    <script>$(".share-this-post").stick_in_parent();</script>
+  </body>
+</html>

@@ -1,0 +1,25 @@
+<header class="navbar" role="navigation">
+  <div class="master-header">
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-12 col-md-4 header-context">
+          <a href="/about" class="header-link">About</a>
+        </div>
+        <div class="col-xs-12 col-md-4">
+          <a href="/" class="logo header-link">Vegan dollhouse</a>
+        </div>
+        <div class="col-xs-12 col-md-4 header-context">
+          <a href="/search" class="header-link">Search</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div>
+    <nav class="nav nav-inline">
+      <a class="nav-link recipes {{ if eq .Section "recipes" }}active{{ end }}" href="/recipes">Recipes</a>
+      <a class="nav-link blog {{ if eq .Section "blog" }}active{{ end }}" href="/blog">Blog</a>
+      <a class="nav-link events {{ if eq .Section "events" }}active{{ end }}" href="/events">Events</a>
+    </nav>
+  </div>
+</header>

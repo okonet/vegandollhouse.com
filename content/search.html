@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {{ partial "header.html" . }}
+    <script type="text/javascript" src="/js/lunr.min.js"></script>
+  </head>
+  <body>
+    {{ partial "navigation.html" . }}
+
+    <div class="container main">
+      <div class="input-group input-group-lg">
+        <span class="input-group-addon" id="sizing-addon1"><i class="fa fa-search"></i></span>
+        <input id="search" type="text" class="form-control" placeholder="Search" aria-describedby="sizing-addon1">
+      </div>
+
+      <div class="card-columns most-recent">
+        {{ range first 6 .Site.Pages.ByPublishDate }}
+          {{ partial "card.html" . }}
+        {{ end }}
+      </div>
+    </div>
+
+    {{ partial "footer.html" }}
+
+    <script type="text/javascript" src="/js/search.js"></script>
+  </body>
+</html>

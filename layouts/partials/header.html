@@ -1,0 +1,32 @@
+<!-- Required meta tags always come first -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+
+{{ if eq .Site.Title .Title }}
+<title>{{ .Site.Title }}</title>
+{{ else }}
+<title>{{ .Site.Title }} - {{ .Title }}</title>
+{{ end }}
+
+<meta name="description" content="{{ .Params.Description | default .Title }}">
+<meta name="tags" content="{{ .Params.Tags | default "vegan" }}">
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@vegandollhouse" />
+<meta property="og:url" content="{{ .Permalink }}" />
+<meta property="og:title" content="{{ .Title }}" />
+<meta property="og:description" content="{{ .Params.Description | default .Title }}" />
+<meta property="og:image" content="https://d33wubrfki0l68.cloudfront.net/49dc1aa83a42d3b9f30f8b63c17ec46d23dc5416/00b56/static/images/logo.png" />
+
+<link href='https://fonts.googleapis.com/css?family=Sacramento' rel='stylesheet' type='text/css'>
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-hQpvDQiCJaD2H465dQfA717v7lu5qHWtDbWNPvaTJ0ID5xnPUlVXnKzq7b8YUkbN" crossorigin="anonymous">
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/webcomponentsjs/0.5.4/CustomElements.min.js"></script>
+<script src="/js/time-elements.js"></script>
+
+<!-- Bootstrap CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.2/css/bootstrap.min.css" integrity="sha384-y3tfxAZXuh4HwSYylfB+J125MxIs6mR5FOHamPBG064zB+AFeWH94NdvaCBm8qnd" crossorigin="anonymous">
+<link rel="stylesheet" href="/css/fixedsticky.css">
+<link rel="stylesheet" href="/css/main2.css">
+<link rel="stylesheet" href="/css/search.css">

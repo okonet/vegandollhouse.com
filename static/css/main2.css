@@ -1,0 +1,298 @@
+/******* COLORS *******/
+
+.dark-blue {
+  color: #02182B;
+}
+
+.mustard {
+  color: #F5B15A;
+}
+
+.purple {
+  color: #561779;
+}
+
+/******* END - COLORS *******/
+
+/******* GENERAL *******/
+
+body {
+  background: #F0EDEE;
+}
+
+a {
+  color: #561779;
+}
+
+a:hover {
+  color: #86BBD8;
+  text-decoration: none;
+}
+
+/******* END - GENERAL *******/
+
+/******* HEADER *******/
+
+.navbar {
+  padding: 0;
+  border-radius: 0;
+}
+
+.navbar .nav a.nav-link {
+  color: white !important;
+  display: inline-block;
+  font-size: 1em;
+  line-height: 120%;
+  height: 65px;
+  width: 33.33%;
+  padding: 24px 5px;
+  text-align: center;
+  margin: 0;
+  float: left;
+}
+ 
+a.nav-link.active {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.navbar .nav a.blog {
+  background: #2A9D8F;
+}
+
+.navbar .nav a.recipes {
+  background: #86BBD8;
+}
+
+.navbar .nav a.events {
+  background: #F5B15A;
+}
+
+.navbar {
+  background: #561779;
+}
+
+.navbar .master-header {
+  text-align: center;
+}
+
+.navbar .master-header .container {
+  padding: 2em 1em;
+}
+
+.navbar .master-header .logo {
+  font-size: 4rem;
+  font-family: "Sacramento", cursive;
+}
+
+.header-link {
+  color: #FFF;
+}
+
+@media (min-width: 992px) {
+  .header-context {
+    padding-top: 2.8rem;
+  }
+}
+
+/******* END - HEADER *******/
+
+/******* MAIN CONTAINER *******/
+
+.main {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  padding-bottom: 2rem;
+}
+
+.carousel {
+  background: #fff;
+  padding: 0;
+  position: relative;
+  overflow: hidden;
+  background-color: #fff;
+  border-radius: .25rem;
+}
+
+.carousel-panel {
+    width: 62%;
+    float: left;
+}
+
+.carousel img {
+    max-width: 100%;
+}
+
+.carousel-display {
+    padding: 1rem;
+    width: 38%;
+    float: left;
+    overflow: hidden;
+}
+
+@media screen and (max-width: 990px) {
+  .carousel-panel {
+    width: 100%;
+    padding: 0;
+    float: none;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .carousel-display {
+    padding-top: 0;
+    margin: 0;
+    width: 100%;
+  }
+}
+
+.carousel .title {
+  padding-top: 2rem;
+  font-family: "Sacramento";
+  font-size: 2.3rem;
+}
+
+.most-recent {
+  margin-top: 2rem;
+}
+
+.most-recent .card-title {
+  font-family: "Sacramento";
+  font-size: 2.3rem;
+}
+
+.card-img-top.recipes {
+  border-bottom: 8px solid #86BBD8;
+  max-width: 100%;
+}
+
+.card-img-top.blog {
+  border-bottom: 8px solid #2A9D8F;
+  max-width: 100%;
+}
+
+.card-img-top.events {
+  border-bottom: 8px solid #F5B15A;
+  max-width: 100%;
+}
+
+.content,
+.comments {
+  background: #fff;
+  border-radius: .25rem;
+}
+
+.content header {
+  text-align: center;
+  font-family: "Sacramento";
+  padding: 2rem;
+}
+
+.content img {
+  display: block;
+  margin: 0 auto;
+  border-radius: .25rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  max-width: 100%;
+}
+
+.content div {
+  padding: 0 6rem;
+}
+
+ul.ingredients li {
+  padding-left: 1.2em;
+  list-style: none;
+}
+
+ul.ingredients li:before {
+  content: "\f004";
+  font-family: FontAwesome;
+  display: inline-block;
+  margin-left: -2em;
+  width: 1.8em;
+  font-size: .6em;
+  vertical-align: middle;
+}
+
+/******* SHARE POST *******/
+
+.fixedsticky {
+  top: 0;
+}
+
+.share-this-post {
+  position: relative;
+  margin: 3em auto;
+  text-align: center;
+}
+
+@media (min-width: 992px) {
+  .share-this-post {
+    margin: 0;
+  }
+
+  .share-page.affix-bottom, .share-page.affix-top {
+    position: absolute;
+  }
+
+  .share-page.affix-top {
+    top: 45px;
+  }
+
+  .share-this-post a {
+    margin-bottom: 10px;
+  }
+
+  .share-page {
+    display: block;
+    position: absolute;
+    left: -60px;
+    width: 48px;
+    z-index: 5;
+    padding-top: 1rem;
+  }
+
+  .share-page.affix {
+    position: fixed;
+    top: 45px;
+  }
+}
+
+.share-this-post a {
+  margin: 0 10px;
+}
+
+.share-page a {
+  background: rgba(236,236,236,.45);
+  border-radius: 100px;
+  color: rgba(42,42,42,.1);
+}
+
+.icon-twitter:hover {
+  color: #04aceb;
+}
+
+.icon-facebook:hover {
+  color: rgb(59, 89, 152);
+}
+
+.icon-email:hover {
+  color: #02182B;  
+}
+
+/******* END - SHARE POST *******/
+
+/******* END - MAIN CONTAINER *******/
+
+/****** FOOTER ******/
+
+footer {
+  width: 100%;
+  height: 60px;
+  line-height: 60px;
+  background-color: #02182B;
+}
+
+/****** END - FOOTER ******/

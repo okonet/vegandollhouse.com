@@ -1,0 +1,12 @@
+<div class="card">
+  <a href="{{ .Permalink }}"><img class="card-img-top img-fluid {{ .Section }}" src="{{ .Params.thumbnail }}" alt="{{ .Params.ThumbnailAlt }}"></a>
+  <div class="card-block">
+    <h4 class="card-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
+    <p class="card-text">{{ .Summary }}</p>
+    <p class="card-text">
+      <small class="text-muted">
+        Posted in <a href="/{{ .Section }}">{{ .Section }}</a> <relative-time datetime="{{ .Date }}">{{ .Date }}</relative-time>
+      </small>
+    </p>
+  </div>
+</div>

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {{ partial "header.html" . }}
+  </head>
+  <body>
+    {{ partial "navigation.html" . }}
+
+    <div class="container main">
+      <div class="card-columns most-recent">
+        {{ range first 18 .Paginator.Pages }}
+          {{ partial "card.html" . }}
+        {{ end }}
+      </div>
+    </div>
+
+    {{ template "_internal/pagination.html" . }}
+
+    {{ partial "footer.html" }}
+  </body>
+</html>
