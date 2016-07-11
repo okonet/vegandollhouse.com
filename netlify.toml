@@ -1,2 +1,2 @@
 [build]
-  command = "make website"
+  Command = "make website"
