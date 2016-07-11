@@ -33,7 +33,7 @@ module.exports = function(grunt) {
 
         var processHTMLFile = function(abspath, filename) {
             var content = grunt.file.read(abspath);
-            var href = S(abspath).chompLeft(CONTENT_PATH_PREFIX).s;
+            var href = S(abspath).chompLeft(CONTENT_PATH_PREFIX).chompRight(".html").s;
 
             content = content.split("+++");
             var frontMatter;
