@@ -1,2 +1,3 @@
 [build]
   Command = "make website"
+  Publish = "public"
