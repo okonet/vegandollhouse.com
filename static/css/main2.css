@@ -182,6 +182,10 @@ a.nav-link.active {
   border-radius: .25rem;
 }
 
+.comments {
+  padding: 2rem;
+}
+
 .content header {
   text-align: center;
   font-family: "Sacramento";
@@ -199,6 +203,10 @@ a.nav-link.active {
 
 .content div {
   padding: 0 6rem;
+}
+
+.about {
+  padding: 2rem 6rem;
 }
 
 ul.ingredients li {

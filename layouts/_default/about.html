@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {{ partial "header.html" . }}
+  </head>
+  <body>
+    {{ partial "navigation.html" . }}
+
+    <div class="container">
+      <div class="main content about">
+        {{ .Content }}
+      </div>
+    </div>
+
+    {{ partial "footer.html" }}
+    <script>$(".share-this-post").stick_in_parent();</script>
+  </body>
+</html>
