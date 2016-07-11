@@ -1,0 +1,15 @@
+<nav>
+  <ul class="pager">
+    {{ if .Paginator.Prev }}
+    <li class="pager-prev"><a href="{{ .Paginator.Prev.URL }}">Older</a></li>
+    {{ else }}
+    <li class="pager-prev disabled"><a href="#">Older</a></li>
+    {{ end }}
+
+    {{ if .Paginator.Next }}
+    <li class="pager-next"><a href="{{ .Paginator.Next.URL }}">Newer</a></li>
+    {{ else }}
+    <li class="pager-next disabled"><a href="#">Newer</a></li>
+    {{ end }}
+  </ul>
+</nav>

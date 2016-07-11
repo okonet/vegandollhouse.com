@@ -216,6 +216,18 @@ ul.ingredients li:before {
   vertical-align: middle;
 }
 
+.pager li>a {
+  background-color: #F0EDEE;
+}
+
+.pager .disabled>a {
+  background-color: #F0EDEE;
+}
+
+.pager .disabled>a:hover {
+  background-color: #F0EDEE;
+}
+
 /******* SHARE POST *******/
 
 .fixedsticky {

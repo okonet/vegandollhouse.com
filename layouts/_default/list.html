@@ -12,9 +12,8 @@
           {{ partial "card.html" . }}
         {{ end }}
       </div>
+      {{ partial "pagination.html" . }}
     </div>
-
-    {{ template "_internal/pagination.html" . }}
 
     {{ partial "footer.html" }}
   </body>
