@@ -1,7 +1,11 @@
 <div class="carousel">
-  <div class="carousel-panel"><img src="/images/cupcake.jpg"></div>
+  {{ range first 3 .Site.Taxonomies.tags.featured }}
+  {{ with .Page }}
+  <div class="carousel-panel"><img src="{{ .Params.thumbnail }}" alt="{{ .Params.thumbnailAlt }}"></div>
   <div class="carousel-display">
       <p class="title"><a href="{{ .Permalink }}">{{ .Title }}</a></p>
-      <p class="description">{{ .Summary }}<p>
+      <p class="description">{{ .Params.description }}<p>
   </div>
+  {{ end }}
+  {{ end }}
 </div>

@@ -10,7 +10,12 @@
       {{ partial "share.html" . }}
 
       <div class="main content">
-        {{ .Content }}
+        <article>
+          <header><h1>{{ .Title }}</h1></header>
+          <img src="{{ .Params.thumbnail }}" alt="{{ .Params.thumbnailAlt }}"/>
+
+          <div>{{ .Content }}</div>
+        </article>
       </div>
 
       <div class="main comments">
