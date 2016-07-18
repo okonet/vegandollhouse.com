@@ -11,7 +11,7 @@ tags = []
 
 ♫&nbsp;Listening to: The Darkest Side by The Middle East ♫
 
-#### Red Velveteen Cake ingredients:
+#### Red Velveteen Cake Ingredients:
 
 Makes 5 small cakes (or 12 cupcakes)
 
@@ -29,7 +29,7 @@ Makes 5 small cakes (or 12 cupcakes)
 
 
 
-#### Red Velveteen Cake directions:
+#### Red Velveteen Cake Directions:
 
 **Preheat** the oven to 350°.
 
@@ -49,7 +49,7 @@ Makes 5 small cakes (or 12 cupcakes)
 
 **Bake** at 350º for 33 minutes (or 20 minutes for cupcakes).
 
-#### Cream Cheese Icing ingredients:
+#### Cream Cheese Icing Ingredients:
 
 - 1 package vegan cream cheese (I used kite hill)
 - ¼ c organic earth balance
@@ -60,7 +60,7 @@ Makes 5 small cakes (or 12 cupcakes)
 
 
 
-#### Cream Cheese Icing directions:
+#### Cream Cheese Icing Directions:
 
 **Beat** the margarine, cream cheese, and vanilla extract together.
 

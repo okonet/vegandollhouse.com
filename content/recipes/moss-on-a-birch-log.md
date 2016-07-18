@@ -11,7 +11,7 @@ tags = []
 
 ♫&nbsp;Listening to: Jesus the Mexican Boy by Iron & Wine ♫
 
-#### Moss on a Birch Log ingredients:
+#### Moss on a Birch Log Ingredients:
 
 - 1 stalk celery
 - vegan cream cheese (I like the Daiya chive & onion)
@@ -21,7 +21,7 @@ tags = []
 
 
 
-#### Moss on a Birch Log directions:
+#### Moss on a Birch Log Directions:
 
 **Spread** the celery with cream cheese.
 

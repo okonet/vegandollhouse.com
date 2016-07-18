@@ -11,14 +11,14 @@ tags = []
 
 ♫&nbsp;Listening to: ♫
 
-#### Purple layer ingredients:
+#### Purple layer Ingredients:
 
 - frozen nectarines
 - frozen cherries
 - frozen blueberries
 - soymilk
 
-#### Green layer ingredients:
+#### Green layer Ingredients:
 
 - frozen nectarines
 - frozen bananas
@@ -27,14 +27,14 @@ tags = []
 - half a scoop Vegan One vanilla protein powder
 - soymilk
 
-#### Pink layer ingredients:
+#### Pink layer Ingredients:
 
 - frozen nectarines
 - frozen cherries
 - frozen strawberries
 - soymilk
 
-#### Smoothie directions:
+#### Smoothie Directions:
 
 **Blend** each layer separately, rinsing the blender between each layer.
 

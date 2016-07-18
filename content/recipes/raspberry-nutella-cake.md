@@ -13,7 +13,7 @@ tags = []
 
 
 
-#### Vegan Gluten-free Chocolate Cake ingredients:
+#### Vegan Gluten-free Chocolate Cake Ingredients:
 
 - 1 ½&nbsp;c coconut-almond milk (or sub any nondairy milk)
 - 1 T apple cider vinegar
@@ -33,7 +33,7 @@ tags = []
 
 
 
-#### Vegan Gluten-free Chocolate Cake directions:
+#### Vegan Gluten-free Chocolate Cake Directions:
 
 **Preheat** the oven to 350°.
 
@@ -53,7 +53,7 @@ tags = []
 
 
 
-#### Nutella Mousse ingredients:
+#### Nutella Mousse Ingredients:
 
 - 1 package firm silken tofu (wrapped in a towel for a few minutes)
 - ¼ c agave (you can substitute maple syrup)
@@ -64,7 +64,7 @@ tags = []
 
 
 
-#### Nutella Mousse directions:
+#### Nutella Mousse Directions:
 
 **Blend** the tofu, hazelnut butter, almond milk, agave, and coconut sugar until it's smooth and creamy.
 
@@ -82,7 +82,7 @@ tags = []
 
 
 
-#### Raspberry Buttercream Frosting ingredients:
+#### Raspberry Buttercream Frosting Ingredients:
 
 - ¼ c&nbsp;earth balance
 - ¼ c spectrum palm shortening
@@ -92,7 +92,7 @@ tags = []
 
 
 
-#### Raspberry Buttercream Frosting directions:
+#### Raspberry Buttercream Frosting Directions:
 
 **Mash** &nbsp;around half the berries using a mortar and pestle (after picking out the prettiest ones for garnishing).
 

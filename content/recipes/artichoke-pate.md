@@ -11,7 +11,7 @@ tags = []
 
 I was trying to avoid packing because while I'm quite excited about moving to a new, bigger and better dollhouse, I'm much less excited about all the work required from me over the next 10 days. Soooo...instead of working like a good girl, I decided to make artichoke pâté (like a bad girl?)
 
-#### Artichoke Pâté ingredients:
+#### Artichoke Pâté Ingredients:
 
 - 1 c cooked and rinsed navy or great white northern beans
 - ½ c artichoke hearts or artichoke tapenade
@@ -21,7 +21,7 @@ I was trying to avoid packing because while I'm quite excited about moving to a 
 - 1 small clove garlic, minced (or some garlic powder if you don't have any)
 - 1 ½ T water (just to get it to blend smoothly)
 
-#### Artichoke Pâté directions:
+#### Artichoke Pâté Directions:
 
 **Blend** the ingredients, stopping the blender occasionally to scrape the sides with a silicone spatula. Once it's smooth, you're done.
 

@@ -13,7 +13,7 @@ tags = []
 
 School started yesterday, and I'm already over it! Can that be possible? My biggest qualm with school this year is that the children who could polish off an entire bag of popchips in approximately 85 seconds over the summer break are now all of a sudden "not hungry" when they're at school. I consider myself to be a pretty hands-off parent, but I basically only have to follow one rule in this parenting game—keep them alive. They're making it very difficult for me to follow my rule with this 8-hour-long daily fast.&nbsp;Also, I do not ever recall a time in my life (at any age) when I didn't feel like eating. Can I please have that problem??? I wish I could trade my appetite for theirs. But until I find a sorceress&nbsp;to perform that magic, I am racking my brain to try to come up with foods that they will be willing to take time away from socializing to eat. Unless these firm up tonight in the fridge (enough to hold in your hand and eat like a cupcake while walking around chatting), I think this might have been a failed attempt. But they're still super yummy.
 
-#### Enchilada Mini Cakes ingredients:
+#### Enchilada Mini Cakes Ingredients:
 
 - 1 onion, finely diced (I used a food processor)
 - a few tablespoons of olive oil
@@ -28,7 +28,7 @@ School started yesterday, and I'm already over it! Can that be possible? My bigg
 - 1 can black beans, rinsed
 - vegan cheese
 
-#### Enchilada Mini Cakes directions:
+#### Enchilada Mini Cakes Directions:
 
 **Preheat** oven to 350°.
 

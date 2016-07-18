@@ -9,7 +9,7 @@ description = "Vegan Chicken Pot Pie that's even better as leftovers"
 tags = []
 +++
 
-#### Pot Pie filling ingredients:
+#### Pot Pie filling Ingredients:
 
 - 1 onion
 - 2-3 T olive oil
@@ -20,7 +20,7 @@ tags = []
 - 1 package seitan, chopped
 - 6-8 c veggie broth
 
-#### Pot Pie filling directions:
+#### Pot Pie filling Directions:
 
 **Saute** the onion in olive oil until soft.
 
@@ -36,7 +36,7 @@ tags = []
 
 
 
-#### Biscuit ingredients:
+#### Biscuit Ingredients:
 
 - 2 c flour
 - ½&nbsp;c nutritional yeast
@@ -45,7 +45,7 @@ tags = []
 - ¼&nbsp;c earth balance
 - ¾ c water
 
-#### Biscuit directions:
+#### Biscuit Directions:
 
 **Preheat** the oven to 475°.
 

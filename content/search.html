@@ -8,12 +8,7 @@
     {{ partial "navigation.html" . }}
 
     <div class="container main">
-      <div class="input-group input-group-lg">
-        <span class="input-group-addon" id="sizing-addon1"><i class="fa fa-search"></i></span>
-        <input id="search" type="text" class="form-control" placeholder="Search" aria-describedby="sizing-addon1">
-      </div>
-
-      <div class="card-columns most-recent">
+      <div class="card-columns">
         {{ range first 6 .Site.Pages.ByPublishDate }}
           {{ partial "card.html" . }}
         {{ end }}
@@ -21,7 +16,6 @@
     </div>
 
     {{ partial "footer.html" }}
-
     <script type="text/javascript" src="/js/search.js"></script>
   </body>
 </html>

@@ -13,12 +13,12 @@ tags = []
 
 Makes 24 bears
 
-#### Chocolate Crust ingredients:
+#### Chocolate Crust Ingredients:
 
 - 24 Newman O's or Joe Joe's (or I guess Oreos if you must, but do you really want to eat those?)
 - ¼ cup earth balance or coconut oil, melted
 
-#### Chocolate Crust directions:
+#### Chocolate Crust Directions:
 
 **Process** the cookies in the food processor until they are fine crumbs.
 
@@ -28,7 +28,7 @@ Makes 24 bears
 
 **Press** the mixture into the bottoms of cupcake papers.
 
-#### Pumpkin Cheesecake ingredients:
+#### Pumpkin Cheesecake Ingredients:
 
 - 2 packages silken tofu, rinsed and patted dry with paper towels or a kitchen towel
 - 1 can pumpkin
@@ -41,7 +41,7 @@ Makes 24 bears
 - ¼ t ginger
 - ¼ t salt
 
-#### Pumpkin Cheesecake directions:
+#### Pumpkin Cheesecake Directions:
 
 **Preheat** the oven to 325°.
 

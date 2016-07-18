@@ -11,7 +11,7 @@ tags = []
 
 ♫&nbsp;Listening to: Chain My Name by Poliça ♫
 
-#### Pizza Dough ingredients:
+#### Pizza Dough Ingredients:
 
 - 2 tablespoons yeast
 - 2 cups warm water (I use around 110 degree water)
@@ -23,7 +23,7 @@ tags = []
 - 2-4 tablespoons nutritional yeast
 - extra flour for dusting rolling surface
 
-#### Pizza Dough directions:
+#### Pizza Dough Directions:
 
 **Mix** the yeast, water, and sugar in large bowl. Add 3 cups of the flour. Mix well to blend. (I use my kitchenaid for this because kneading dough is my nemesis.)
 
@@ -33,14 +33,14 @@ tags = []
 
 **Roll** dough into a ball and place into a lightly oiled bowl. Cover bowl with towel and set in a warm place for 45 minutes to rise.
 
-#### Pizza Pinwheels ingredients:
+#### Pizza Pinwheels Ingredients:
 
 - olive oil
 - pizza sauce (I usually mix one 15 oz can of organic tomato sauce with one 6 oz can of organic tomato paste, and then I add basil, oregano, and garlic)
 - 1 package grated nondairy cheese (I use follow your heart mozarella)
 - Any other pizza ingredients you like, cut into very small pieces
 
-#### Pizza Pinwheels directions:
+#### Pizza Pinwheels Directions:
 
 **Preheat** the oven to 350°.
 

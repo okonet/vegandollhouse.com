@@ -13,7 +13,7 @@ tags = []
 
 
 
-#### Indigo Velveteen Cake ingredients:
+#### Indigo Velveteen Cake Ingredients:
 
 Makes 2 small cakes (or 12 cupcakes)
 
@@ -31,7 +31,7 @@ Makes 2 small cakes (or 12 cupcakes)
 
 
 
-#### Indigo Velveteen Cake directions:
+#### Indigo Velveteen Cake Directions:
 
 **Preheat** the oven to 350°.
 
@@ -55,7 +55,7 @@ Makes 2 small cakes (or 12 cupcakes)
 
 
 
-#### Lemon Cream Cheese Icing ingredients:
+#### Lemon Cream Cheese Icing Ingredients:
 
 - 1 8oz package vegan cream cheese (or you can use homemade)
 - ¼ c&nbsp;package silken tofu (blended)
@@ -68,7 +68,7 @@ Makes 2 small cakes (or 12 cupcakes)
 
 
 
-#### Lemon Cream Cheese Icing directions:
+#### Lemon Cream Cheese Icing Directions:
 
 **Beat** the margarine, cream cheese, blended silken tofu, lemon, and vanilla extract together.
 

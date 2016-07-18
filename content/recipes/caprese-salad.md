@@ -9,7 +9,7 @@ description = "Soy-free, gluten-free, vegan caprese salad"
 tags = []
 +++
 
-#### Caprese Salad ingredients:
+#### Caprese Salad Ingredients:
 
 - 3 tomatoes
 - 2 lettuce leaves
@@ -20,7 +20,7 @@ tags = []
 
 #### ![](/images/caprese3.jpg)
 
-#### Caprese directions:
+#### Caprese Directions:
 
 **Slice** the tofu thinly and cut into 2 inch square or rectangle pieces.
 

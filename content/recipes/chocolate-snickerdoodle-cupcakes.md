@@ -13,7 +13,7 @@ tags = []
 
 
 
-#### Vegan Chocolate Snickerdoodle Cupcake ingredients:
+#### Vegan Chocolate Snickerdoodle Cupcake Ingredients:
 
 - 2 ½ cups unbleached white flour
 - ⅔ cup cocoa powder
@@ -29,7 +29,7 @@ tags = []
 
 
 
-#### Vegan Chocolate Snickerdoodle Cupcake directions:
+#### Vegan Chocolate Snickerdoodle Cupcake Directions:
 
 **Preheat** the oven to 350°.
 
@@ -49,7 +49,7 @@ tags = []
 
 
 
-#### Vegan Snickerdoodle Icing ingredients:
+#### Vegan Snickerdoodle Icing Ingredients:
 
 - ¾ cup earth balance or homemade vegan butter
 - ¾ cup organic palm shortening
@@ -61,7 +61,7 @@ tags = []
 
 
 
-#### Vegan Snickerdoodle Icing directions:
+#### Vegan Snickerdoodle Icing Directions:
 
 **Whisk** the butter, palm shortening, and vanilla using a handheld mixer or stand mixer.
 

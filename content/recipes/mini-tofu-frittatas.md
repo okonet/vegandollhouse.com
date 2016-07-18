@@ -9,7 +9,7 @@ description = "Gluten-free vegan frittata for brunch"
 tags = []
 +++
 
-#### Frittata ingredients:
+#### Frittata Ingredients:
 
 - 4 T olive oil
 - 1 onion, diced
@@ -27,7 +27,7 @@ tags = []
 - 3 T braggs liquid aminos
 - ¼&nbsp;c chickpea flour
 
-#### Frittata directions:
+#### Frittata Directions:
 
 **Saute** the onion in the olive oil for 5 minutes.
 

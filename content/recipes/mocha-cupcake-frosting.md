@@ -13,7 +13,7 @@ tags = []
 
 
 
-#### Vegan Mocha Cupcake ingredients:
+#### Vegan Mocha Cupcake Ingredients:
 
 - ½ cup cold coffee
 - ½ cup soymilk
@@ -27,7 +27,7 @@ tags = []
 - ½ teaspoon salt
 - ⅓ cup cocoa powder
 
-#### Vegan Mocha Cupcake directions:
+#### Vegan Mocha Cupcake Directions:
 
 **Preheat** the oven to 350°.
 
@@ -43,7 +43,7 @@ tags = []
 
 
 
-#### Vegan Coffee Cream Filling ingredients:
+#### Vegan Coffee Cream Filling Ingredients:
 
 - 1 can coconut cream&nbsp;(I buy mine from Trader Joe's, but unfortunately, it's not organic), left in the fridge overnight
 - ½ cup organic powdered sugar
@@ -53,7 +53,7 @@ tags = []
 
 
 
-#### Vegan Coffee Cream Filling directions:
+#### Vegan Coffee Cream Filling Directions:
 
 **Whisk** the ingredients until smooth in the kitchenaid. You want it to form peaks that do not fall.
 
@@ -67,7 +67,7 @@ tags = []
 
 
 
-#### Vegan Mocha Icing ingredients:
+#### Vegan Mocha Icing Ingredients:
 
 - ¼ cup earth balance or homemade vegan butter
 - ¼ cup organic palm shortening
@@ -79,7 +79,7 @@ tags = []
 
 
 
-#### Vegan Mocha Icing directions:
+#### Vegan Mocha Icing Directions:
 
 **Mix** the instant coffee with 3 tablespoons of hot water until it's dissolved and place into the freezer to cool for at least 20 minutes.
 

@@ -11,14 +11,14 @@ tags = []
 
 Pi day is probably Zen's favorite day of the year. Since we have plans on March 14 this year (and I will be crazy busy preparing for our amazing [bakesale](http://vegandollhouse.com/blog/vegan-bakesale)), we decided to prepare for Pi day in advance.
 
-#### Poptart crust ingredients:
+#### Poptart crust Ingredients:
 
 - 2 ½ c unbleached flour
 - 8 T earth balance
 - 4 T evaporated cane juice (or vegan sugar)
 - Cold water
 
-#### Poptart crust directions:
+#### Poptart crust Directions:
 
 **Combine** the flour, sugar, and earth balance in the bowl of a stand mixer with the paddle attachment. If you don't have a stand mixer, you can use a food processor.
 
@@ -32,14 +32,14 @@ The poptart maker I have is made by wilton, and I bought it at Target. However, 
 
 ![](/images/poptarts7.jpg)
 
-#### Poptart filling ingredients:
+#### Poptart filling Ingredients:
 
 - 1 ½ cups of frozen cherries
 - 1 c sugar
 - 1 t almond extract
 - 2 T cornstarch
 
-#### Poptart filling directions:
+#### Poptart filling Directions:
 
 **Combine** cherries, sugar, almond extract, and cornstarch in a pot on medium heat.
 
@@ -75,14 +75,14 @@ Transfer to a cookie sheet or baking stone.
 
 Bake at 350º for 20 minutes. Cool completely before icing.
 
-#### Poptart icing ingredients:
+#### Poptart icing Ingredients:
 
 - 8 ounces organic powdered sugar
 - 1 t vanilla extract
 - 1 t almond extract
 - 2 T organic corn syrup
 
-#### Poptart icing directions:
+#### Poptart icing Directions:
 
 **Combine** everything with a mixer.
 

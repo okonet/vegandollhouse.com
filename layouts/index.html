@@ -7,9 +7,9 @@
     {{ partial "navigation.html" . }}
 
     <div class="container main">
-      {{ partial "carousel.html" . }}
+      {{ partial "featured.html" . }}
 
-      <div class="card-columns most-recent">
+      <div class="card-columns">
         {{ range first 6 .Data.Pages.ByPublishDate }}
           {{ partial "card.html" . }}
         {{ end }}

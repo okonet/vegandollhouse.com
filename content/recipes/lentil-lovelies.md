@@ -13,7 +13,7 @@ tags = []
 
 I remember the first time I made these was 3 years ago for Lulu's birthday. I had a different blog back then at [ieatcupcakes.com](http://ieatcupcakes.tumblr.com/) where all my pictures were taken with an iPhone so they all looked really bad. Here was my [original post](http://ieatcupcakes.tumblr.com/post/59565093615/vegan-gluten-free-meatloaf-cupcakes). Now I have created my own lentil loaf recipe that I prefer over many others that I've tried. This recipe makes 15 lentil lovelies.
 
-#### Lentil Loaf ingredients:
+#### Lentil Loaf Ingredients:
 
 - 1 c dry lentils
 - ⅓ c millet
@@ -38,7 +38,7 @@ I remember the first time I made these was 3 years ago for Lulu's birthday. I ha
 - ¼ c ketchup
 - 1 T molasses
 
-#### Lentil Loaf directions:
+#### Lentil Loaf Directions:
 
 **Rinse** the lentils and millet.
 
@@ -86,7 +86,7 @@ I remember the first time I made these was 3 years ago for Lulu's birthday. I ha
 
 
 
-#### Mashed Potatoes ingredients:
+#### Mashed Potatoes Ingredients:
 
 - 2 pounds potatoes
 - ¼ c organic earth balance
@@ -94,7 +94,7 @@ I remember the first time I made these was 3 years ago for Lulu's birthday. I ha
 - 1 t salt
 - ½ t pepper
 
-#### Mashed Potatoes directions:
+#### Mashed Potatoes Directions:
 
 **Peel** the potatoes, cutting off any bad spots.
 

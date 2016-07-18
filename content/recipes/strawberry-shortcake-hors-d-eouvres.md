@@ -11,7 +11,7 @@ tags = []
 
 ♫&nbsp;Listening to: We've Had Enough by Alkaline Trio&nbsp;♫
 
-#### Shortcake ingredients:
+#### Shortcake Ingredients:
 
 - 3 c flour
 - 1 T baking powder
@@ -20,7 +20,7 @@ tags = []
 - 5 T sugar
 - 1 c non-dairy milk
 
-#### Shortcake directions:
+#### Shortcake Directions:
 
 **Preheat** the oven to 400°.
 
@@ -50,7 +50,7 @@ tags = []
 
 
 
-#### Whipped Cream ingredients:
+#### Whipped Cream Ingredients:
 
 - 2 cans of coconut cream (I buy mine from Trader Joe's, but unfortunately, it's not organic.)
 - 2 T vanilla
@@ -61,7 +61,7 @@ tags = []
 
 
 
-#### Whipped Cream directions:
+#### Whipped Cream Directions:
 
 **Whisk** the ingredients until smooth in the kitchenaid.
 

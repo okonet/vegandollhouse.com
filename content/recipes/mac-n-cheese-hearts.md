@@ -13,7 +13,7 @@ tags = []
 
 Have you been looking for ways to use leftover mac-n-cheese? Or are you thinking, who in their right mind would have leftover mac-n-cheese? Is this website run by robots? I can see your point. However, I have a trick where I make salad and veggie burgers the same night I make mac-n-cheese. Then, assuming you don't live with an [omnomnomnivore](http://threadlessrules.com/post/51527606213/omnomnomnivore-design-by-aled-and-abigail-lewis), you'll typically end up with leftovers.
 
-#### Vegan Mac-n-Cheese Hearts ingredients:
+#### Vegan Mac-n-Cheese Hearts Ingredients:
 
 - ⅓ c flour
 - 2 T cornstarch
@@ -27,7 +27,7 @@ Have you been looking for ways to use leftover mac-n-cheese? Or are you thinking
 
 
 
-#### Vegan Mac-n-Cheese Hearts directions:
+#### Vegan Mac-n-Cheese Hearts Directions:
 
 **Remove** the leftover mac-n-cheese from the fridge, and process in food processor until finely crumbled.
 

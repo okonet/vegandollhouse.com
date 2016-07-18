@@ -11,11 +11,11 @@ tags = []
 
 ♫&nbsp;Listening to: Wooly by Breathe Carolina ♫
 
-I know that typically the chicken is supposed to be fried, but I thought I would try a healthier spin, and I used Beyond Meat's chicken (which I love!) Just heat the chicken according to the directions on the package.
+I know that typically the chicken is supposed to be fried, but I thought I would try a healthier spin, and I used Beyond Meat's chicken (which I love!) Just heat the chicken according to the Directions on the package.
 
 
 
-#### Waffle ingredients:
+#### Waffle Ingredients:
 
 - 2 cups flour
 - 1 teaspoon cinnamon (optional)
@@ -26,13 +26,13 @@ I know that typically the chicken is supposed to be fried, but I thought I would
 
 
 
-#### Waffle directions:
+#### Waffle Directions:
 
 **Whisk** the dry ingredients together first, and then add the wet ingredients and stir.
 
 **Coat** the waffle iron with coconut oil in between each waffle. Use a silicone brush to get inside all the nooks and crannies in your waffle iron.
 
-**Follow** the directions for your waffle iron to make the waffles.
+**Follow** the Directions for your waffle iron to make the waffles.
 
 **Cut** the waffle into bite sized pieces based on your favorite tetris shapes.
 

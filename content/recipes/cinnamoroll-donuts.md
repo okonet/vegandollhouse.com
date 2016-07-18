@@ -13,7 +13,7 @@ tags = []
 
 This recipe makes 6 donuts. Featured on [Finding Vegan](http://www.findingvegan.com/cinnamoroll-donuts/).
 
-#### Cinnamoroll Donut ingredients:
+#### Cinnamoroll Donut Ingredients:
 
 - 1 cup unbleached flour
 - ¾ cup sugar
@@ -26,7 +26,7 @@ This recipe makes 6 donuts. Featured on [Finding Vegan](http://www.findingvegan.
 - 1 T sunflower oil (or sub any vegetable oil)
 - 1 t vanilla extract
 
-#### Cinnamoroll Donut directions:
+#### Cinnamoroll Donut Directions:
 
 **Preheat** the oven to 350°.
 
@@ -48,12 +48,12 @@ This recipe makes 6 donuts. Featured on [Finding Vegan](http://www.findingvegan.
 
 
 
-#### White Chocolate Coating ingredients:
+#### White Chocolate Coating Ingredients:
 
 - 4 oz cacao butter (food-grade)
 - 1-2 c organic powdered sugar (only use as much as you need to achieve a piping consistency)
 
-#### White Chocolate Coating directions:
+#### White Chocolate Coating Directions:
 
 **Melt** the cacao butter in a small saucepan on low heat.
 
@@ -77,12 +77,12 @@ This recipe makes 6 donuts. Featured on [Finding Vegan](http://www.findingvegan.
 
 
 
-#### Cinnamoroll Facial Features ingredients:
+#### Cinnamoroll Facial Features Ingredients:
 
 - light blue decorating icing (or you can make your own blue buttercream frosting like I did)
 - pink edible glitter or cake sparkles
 
-#### Cinnamoroll Facial Features directions:
+#### Cinnamoroll Facial Features Directions:
 
 **Draw** the eyes and mouth with blue icing on all 6 donuts.
 

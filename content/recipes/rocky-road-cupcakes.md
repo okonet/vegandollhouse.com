@@ -6,14 +6,14 @@ date = "2015-05-20 04:32:58 +0000"
 thumbnail = "/images/IMG_0741.png"
 thumbnailAlt = "vegan rocky road cupcakes"
 description = "Better than vegan s'mores"
+featuredDescription = "Better than vegan s'mores"
 tags = ["featured"]
 +++
 
-♫&nbsp;Listening to: Your New Beloved by Lovelife ♫
+<p class="song">♫ Listening to: Your New Beloved by Lovelife ♫</p>
 
 
-
-#### Chocolate Cupcake ingredients:
+#### Chocolate Cupcake Ingredients:
 
 - 2 c soymilk
 - 1 T apple cider vinegar
@@ -28,7 +28,7 @@ tags = ["featured"]
 
 
 
-#### Chocolate Cupcake directions:
+#### Chocolate Cupcake Directions:
 
 **Preheat** the oven to 350°. Line 2 cupcake tins with 22 cupcake papers.
 
@@ -44,7 +44,7 @@ tags = ["featured"]
 
 
 
-#### Vegan Chocolate Icing ingredients:
+#### Vegan Chocolate Icing Ingredients:
 
 - ½ cup earth balance or homemade vegan butter
 - ½ cup organic palm shortening
@@ -55,7 +55,7 @@ tags = ["featured"]
 
 
 
-#### Vegan Chocolate Icing directions:
+#### Vegan Chocolate Icing Directions:
 
 **Mix** the butter, shortening, and vanilla extract with a kitchen aid or handheld mixer until it's smooth and creamy.
 
@@ -85,7 +85,7 @@ tags = ["featured"]
 
 
 
-#### Vegan Rocky Road Garnish ingredients:
+#### Vegan Rocky Road Garnish Ingredients:
 
 - 44 almonds
 - half of a 12 oz bag of vegan chocolate chips
@@ -93,7 +93,7 @@ tags = ["featured"]
 
 
 
-#### Vegan Rocky Road Garnish directions:
+#### Vegan Rocky Road Garnish Directions:
 
 **Melt** the chocolate chips in a double boiler.
 

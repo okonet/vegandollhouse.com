@@ -13,7 +13,7 @@ Hot pockets were one of those foods my parents would never buy, which made me wa
 
 
 
-#### Pizza Dough ingredients:
+#### Pizza Dough Ingredients:
 
 - 5 c white flour (costco has organic unbleached)
 - 2 c warm water
@@ -26,7 +26,7 @@ Hot pockets were one of those foods my parents would never buy, which made me wa
 
 
 
-#### Pizza Dough directions:
+#### Pizza Dough Directions:
 
 **Mix** the yeast, water, and sugar in large bowl.&nbsp; Add 3 cups of the flour. Mix well to blend. 
 
@@ -38,7 +38,7 @@ Hot pockets were one of those foods my parents would never buy, which made me wa
 
 
 
-#### Pizza Sauce ingredients:
+#### Pizza Sauce Ingredients:
 
 - 1 can tomato sauce (costco has organic)
 - 1 can tomato paste (costco has organic)
@@ -52,7 +52,7 @@ Hot pockets were one of those foods my parents would never buy, which made me wa
 
 
 
-#### Pizza Sauce directions:
+#### Pizza Sauce Directions:
 
 **Mix** everything together in a bowl.
 

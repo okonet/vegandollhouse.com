@@ -9,13 +9,13 @@ description = "You can cut your beets into anatomically correct hearts if that's
 tags = []
 +++
 
-#### Beet ingredients:
+#### Beet Ingredients:
 
 - 9 beets
 - olive oil
 - salt and pepper
 
-#### Beet directions:
+#### Beet Directions:
 
 **Wash** the beets.
 
@@ -37,7 +37,7 @@ tags = []
 
 **Cut** &nbsp;the beets using a knife or cookie cutters.
 
-#### Dressing ingredients:
+#### Dressing Ingredients:
 
 - 2 T vinegar (red wine, balsamic, or apple cider)
 - 5 T olive oil
@@ -45,7 +45,7 @@ tags = []
 - 1 T mustard (optional)
 - Salt and pepper to taste
 
-#### Dressing directions:
+#### Dressing Directions:
 
 **Whisk** all the ingredients together.
 

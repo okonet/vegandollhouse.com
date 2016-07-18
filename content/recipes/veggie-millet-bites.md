@@ -11,7 +11,7 @@ tags = []
 
 ♫&nbsp;Listening to: Heartbeats by The Knife ♫
 
-#### Veggie Millet Bite ingredients:
+#### Veggie Millet Bite Ingredients:
 
 - ⅔ c millet
 - ⅓ quinoa
@@ -27,7 +27,7 @@ tags = []
 - 1 t salt
 - 2 T psyllium husk
 
-#### Veggie Millet Bite directions:
+#### Veggie Millet Bite Directions:
 
 **Preheat** the oven to 375°.
 

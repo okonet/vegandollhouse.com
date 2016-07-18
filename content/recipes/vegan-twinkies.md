@@ -15,7 +15,7 @@ Disclaimer: I normally wouldn't have posted these since they didn't come out per
 
 
 
-#### Vegan Twinkie ingredients:
+#### Vegan Twinkie Ingredients:
 
 - 1¼&nbsp;cups organic unbleached flour
 - ¼ teaspoon salt
@@ -28,7 +28,7 @@ Disclaimer: I normally wouldn't have posted these since they didn't come out per
 - ¾ cups sugar
 - 1 teaspoon vanilla extract
 
-#### Vegan Twinkie directions:
+#### Vegan Twinkie Directions:
 
 **Preheat** the oven to 350°.
 
@@ -52,7 +52,7 @@ This is what overfilled twinkies look like when they come out of the oven—stup
 
 
 
-#### Vegan Twinkie Cream Filling ingredients:
+#### Vegan Twinkie Cream Filling Ingredients:
 
 - 1 can coconut cream&nbsp;(I buy mine from Trader Joe's, but unfortunately, it's not organic), left in the fridge overnight
 - ½ cup organic powdered sugar
@@ -61,7 +61,7 @@ This is what overfilled twinkies look like when they come out of the oven—stup
 
 
 
-#### Vegan Twinkie Cream Filling directions:
+#### Vegan Twinkie Cream Filling Directions:
 
 **Whisk** the ingredients until smooth in the kitchenaid. You want it to form peaks that do not fall.
 

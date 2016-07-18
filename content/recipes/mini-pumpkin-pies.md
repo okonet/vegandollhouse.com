@@ -15,7 +15,7 @@ tags = []
 
 This recipe will make 48 mini pies (using 2 mini muffin pans)
 
-#### Pumpkin Tartlet Crust ingredients:
+#### Pumpkin Tartlet Crust Ingredients:
 
 - 2 ¼ c flour
 - ½ t salt
@@ -25,7 +25,7 @@ This recipe will make 48 mini pies (using 2 mini muffin pans)
 
 
 
-#### Pumpkin Tartlet Crust directions:
+#### Pumpkin Tartlet Crust Directions:
 
 **Combine** the flour, salt, and sugar in the food processor and pulse to mix.
 
@@ -49,7 +49,7 @@ This recipe will make 48 mini pies (using 2 mini muffin pans)
 
 
 
-#### Pumpkin Tartlet Filling ingredients:
+#### Pumpkin Tartlet Filling Ingredients:
 
 - ½ - ⅔ c sucanat (or sub any vegan sweetener)
 - 1 ½ c organic soymilk (or sub any nondairy milk)
@@ -64,7 +64,7 @@ This recipe will make 48 mini pies (using 2 mini muffin pans)
 
 
 
-#### Pumpkin Tartlet Filling directions:
+#### Pumpkin Tartlet Filling Directions:
 
 **Preheat** &nbsp;the oven to 350°.
 

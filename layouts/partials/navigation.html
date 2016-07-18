@@ -1,25 +1,33 @@
-<header class="navbar" role="navigation">
-  <div class="master-header">
-    <div class="container">
-      <div class="row">
-        <div class="col-xs-12 col-md-3 header-context">
-          <a href="/about" class="header-link">About</a>
-        </div>
-        <div class="col-xs-12 col-md-6">
-          <a href="/" class="logo header-link">Vegan Dollhouse</a>
-        </div>
-        <div class="col-xs-12 col-md-3 header-context">
-          <a href="/search" class="header-link">Search</a>
+{{ partial "search.html" . }}
+{{ $subPath := (trim (.Permalink | relURL) "/") }}
+
+<nav class="navbar navbar-light bg-faded">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12 col-md-12"> <!-- middle column -->
+        <a href="/" class="logo">Vegan Dollhouse</a>
+
+        <div class="pull-xs-right">
+          <ul class="nav navbar-nav">
+            <li class="nav-item">
+              <a id="show-search" class="nav-link" href="#"><i class="fa fa-search"></i></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link {{ if eq $subPath "about" }}active{{ end }}" href="/about">About</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link {{ if eq $subPath "blog" }}active{{ end }}" href="/blog">Blog</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link {{ if eq $subPath "events" }}active{{ end }}" href="/events">Events</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link {{ if eq $subPath "recipes" }}active{{ end }}" href="/recipes">Recipes</a>
+            </li>
+          </ul>
         </div>
       </div>
     </div>
-  </div>
 
-  <div>
-    <nav class="nav nav-inline">
-      <a class="nav-link recipes {{ if eq .Section "recipes" }}active{{ end }}" href="/recipes">Recipes</a>
-      <a class="nav-link blog {{ if eq .Section "blog" }}active{{ end }}" href="/blog">Blog</a>
-      <a class="nav-link events {{ if eq .Section "events" }}active{{ end }}" href="/events">Events</a>
-    </nav>
   </div>
-</header>
+</nav>

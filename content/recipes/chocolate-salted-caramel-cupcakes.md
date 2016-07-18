@@ -11,7 +11,7 @@ tags = []
 
 ♫&nbsp;Listening to: Red Kiss by The Aikiu ♫
 
-#### Vegan Chocolate Cupcake ingredients:
+#### Vegan Chocolate Cupcake Ingredients:
 
 - 2 ½ cups unbleached white flour
 - ⅔ cup cocoa powder
@@ -26,7 +26,7 @@ tags = []
 
 
 
-#### Vegan Chocolate Cupcake directions:
+#### Vegan Chocolate Cupcake Directions:
 
 **Preheat** the oven to 350°.
 
@@ -42,7 +42,7 @@ tags = []
 
 
 
-#### Vegan Vanilla Caramel Icing ingredients:
+#### Vegan Vanilla Caramel Icing Ingredients:
 
 - ¾ cup earth balance or homemade vegan butter
 - ¾ cup organic palm shortening
@@ -52,7 +52,7 @@ tags = []
 
 
 
-#### Vegan Vanilla Caramel Icing directions:
+#### Vegan Vanilla Caramel Icing Directions:
 
 **Whisk** the butter, palm shortening, and vanilla using a handheld mixer or stand mixer with the whisk attachment.
 
@@ -74,7 +74,7 @@ tags = []
 
 
 
-#### Salted Caramel ingredients:
+#### Salted Caramel Ingredients:
 
 - ½ cup earth balance or coconut oil
 - ½ cup canned coconut milk (⅓ of the can)
@@ -84,7 +84,7 @@ tags = []
 
 
 
-#### Salted Caramel directions:
+#### Salted Caramel Directions:
 
 **Prepare** yourself for a serious upper-body workout. As a person who never exercises, my arms feel like they're going to fall off after I make this. Also, if you're not down with kitchen exercise or the possibility of failure, I recommend purchasing already-made caramel cause because making my own only has a 50% success rate. Hey Boo makes a vegan caramel sauce that's really good.
 

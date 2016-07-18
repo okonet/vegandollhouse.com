@@ -3,6 +3,8 @@ var lunrIndex,
 
 // Initialize lunrjs using our generated index file
 function initLunr() {
+    var initQuery = initSearch();
+
     // First retrieve the index file
     $.getJSON("/js/index.json")
         .done(function(index) {
@@ -27,6 +29,11 @@ function initLunr() {
             pagesIndex.forEach(function(page) {
                 lunrIndex.add(page);
             });
+
+            initUI();
+            if (initQuery) {
+              search(initQuery);
+            }
         })
         .fail(function(jqxhr, textStatus, error) {
             var err = textStatus + ", " + error;
@@ -36,16 +43,15 @@ function initLunr() {
 
 // Nothing crazy here, just hook up a listener on the input field
 function initUI() {
-    $("#search").keyup(function() {
+    $(".search-bar input").keyup(function(e) {
+        e.preventDefault();
         // Only trigger a search when 2 chars. at least have been provided
         var query = $(this).val();
-        if (query.length <= 2) {
+        if (!query || query.length <= 2) {
             return;
         }
 
-        var results = search(query);
-
-        renderResults(results);
+        search(query);
     });
 }
 
@@ -61,11 +67,13 @@ function search(query) {
     //  {ref: "/section/page1", score: 0.2725657778206127}
     // Our result:
     //  {title:"Page1", href:"/section/page1", ...}
-    return lunrIndex.search(query).map(function(result) {
+    var results = lunrIndex.search(query).map(function(result) {
         return pagesIndex.filter(function(page) {
             return page.href === result.ref;
         })[0];
     });
+
+    renderResults(results);
 }
 
 /**
@@ -78,30 +86,12 @@ function renderResults(results) {
         return;
     }
 
-/**
- *
- * <div class="card">
- *   <a href="{{ .Permalink }}"><img class="card-img-top img-fluid {{ .Section }}" src="{{ .Params.thumbnail }}" alt="{{ .Params.ThumbnailAlt }}"></a>
- *   <div class="card-block">
- *     <h4 class="card-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
- *     <p class="card-text">{{ .Summary }}</p>
- *     <p class="card-text">
- *       <small class="text-muted">
- *         Posted in <a href="/{{ .Section }}">{{ .Section }}</a> <relative-time datetime="{{ .Date }}">{{ .Date }}</relative-time>
- *       </small>
- *     </p>
- *   </div>
- * </div>
- * 
- */
-
-    var wrapper = $(".card-columns");
-    wrapper.empty();
+    var wrapper = $("<div class=\"card-columns\"></div>");
 
     // Only show the ten first results
     results.forEach(function(result) {
       var result = '<div class="card">'
-            + '<a href="'+ result.href +'"><img class="card-img-top img-fluid '+ result.section +'" src="'+ result.thumbnail + '"></a>'
+            + '<a href="'+ result.href +'"><img class="card-img-top img-fluid" src="'+ result.thumbnail + '"></a>'
             + '<div class="card-block">'
               + '<h4 class="card-title"><a href="'+ result.href +'">'+ result.title +'</a></h4>'
               + '<p class="card-text">'+ result.content.substring(0, 30) +'</p>'
@@ -115,11 +105,39 @@ function renderResults(results) {
 
       wrapper.append(result);
     });
+
+    $(".card-columns").replaceWith(wrapper);
 }
 
-// Let's get started
+function initSearch() {
+    var query = getUrlParameter("q");
+    var input = $(".search-bar input")
+    input.focus();
+
+    if (query && query.length > 2) {
+
+      input.val(query);
+      return query;
+    }
+
+    return undefined;
+}
+
+function getUrlParameter(sParam) {
+    var sPageURL = decodeURIComponent(window.location.search.substring(1)),
+        sURLVariables = sPageURL.split('&'),
+        sParameterName,
+        i;
+
+    for (i = 0; i < sURLVariables.length; i++) {
+        sParameterName = sURLVariables[i].split('=');
+
+        if (sParameterName[0] === sParam) {
+            return sParameterName[1] === undefined ? true : sParameterName[1];
+        }
+    }
+}
+
 initLunr();
 
-$(document).ready(function() {
-    initUI();
-});
+//$(function() { initLunr(); });

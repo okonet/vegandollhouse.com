@@ -13,7 +13,7 @@ tags = []
 
 
 
-#### Vegan Chocolate Salad Cake ingredients:
+#### Vegan Chocolate Salad Cake Ingredients:
 
 - 1 ½ cups whole wheat pastry flour
 - 1 ½ cups unbleached white flour
@@ -32,7 +32,7 @@ tags = []
 
 
 
-#### Vegan Chocolate Salad Cake directions:
+#### Vegan Chocolate Salad Cake Directions:
 
 **Preheat** the oven to 350°.
 
@@ -68,12 +68,12 @@ This is what it looks like topless (not that kind of topless, you perv!)
 
 
 
-#### Vegan Chocolate Ganache ingredients:
+#### Vegan Chocolate Ganache Ingredients:
 
 - 2 12-oz bags chocolate chips
 - 1 cup canned coconut milk (the other ⅔ of the can)
 
-#### Vegan Chocolate Ganache directions:
+#### Vegan Chocolate Ganache Directions:
 
 **Heat** &nbsp;the chocolate chips and coconut milk in a saucepan over low heat, stirring often until all chips are almost all the way melted.
 

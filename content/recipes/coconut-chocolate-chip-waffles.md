@@ -11,7 +11,7 @@ tags = []
 
 ♫&nbsp;Listening to: King and Cross by Ásgeir ♫
 
-#### Waffle ingredients:
+#### Waffle Ingredients:
 
 - 1 c unbleached flour
 - ¼ c coconut flour
@@ -23,7 +23,7 @@ tags = []
 - 1 ¾ c soymilk (or sub any nondairy milk)
 - ¼ c mini chocolate chips (I use Enjoy Life)
 
-#### Waffle directions:
+#### Waffle Directions:
 
 **Melt** the coconut oil in the oven or on the stove if it's in a solid state.
 

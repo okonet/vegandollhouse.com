@@ -9,7 +9,7 @@ description = "Alternative to vegan chocolate cream pie"
 tags = []
 +++
 
-#### Pie ingredients:
+#### Pie Ingredients:
 
 - 1 package firm silken tofu (wrapped in a towel for a few minutes)
 - ¼ c agave (you can substitute maple syrup)
@@ -21,7 +21,7 @@ tags = []
 
 #### ![Vegan nutella](/images/choc-hazelnut-jar1.jpg)
 
-#### Pie directions:
+#### Pie Directions:
 
 **Blend** the tofu, hazelnut butter, almond milk, agave, and coconut sugar until it's smooth and creamy.
 
@@ -33,13 +33,13 @@ tags = []
 
 **Chill** &nbsp;the pie in the freezer for 30-60 minutes or in the fridge for 2-3 hours.
 
-#### Whipped Cream ingredients:
+#### Whipped Cream Ingredients:
 
 - 1 can chilled organic coconut milk (I buy Whole Foods 365 brand.)
 - ¼ c organic powdered sugar (Trader Joe's sells this during the holidays, so I usually stock up.)
 - 2 t vanilla extract
 
-#### Whipped Cream directions:
+#### Whipped Cream Directions:
 
 **Whisk** the powdered sugar, coconut milk, and vanilla.
 

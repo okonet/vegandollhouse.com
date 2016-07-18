@@ -11,13 +11,13 @@ tags = []
 
 When we were in Las Vegas in September/October, David's birthday dinner was at an italian restaurant at the Wynn called Bartolotta. One of the appetizers on the menu was a chickpea patty cut into triangles and served with a fried caper garnish. It was soooo amazing that it made up for the fact that the boys had to go to the mall to buy shirts with collars because of the Wynn restaurants and their stupid ass dresscodes. For a few weeks after that dinner, I seriously just wanted to make a vat of fried capers, and carry them around with me forevermore so I could add them to everything I eat. I recovered from that stage and instead, decided to try to replicate the recipe at home.
 
-#### Chickpea Hearts ingredients:
+#### Chickpea Hearts Ingredients:
 
 - 1 c chickpea flour
 - 1.5 c vegetable broth
 - olive oil
 
-#### Chickpea Hearts directions:
+#### Chickpea Hearts Directions:
 
 **Make** &nbsp;1.5 cups of vegetable broth or use packaged. I used to buy the Rapunzel bouillon&nbsp;cubes, but it was so hard to get them to dissolve that now I buy this huge jar of vegan bouillon&nbsp;paste from Costco. I highly recommend it, because it's way easier to work with and tastes delicious. The only downside is that it takes up precious room in the fridge, and if you're like me, you likely don't have a square to spare.
 
@@ -31,12 +31,12 @@ When we were in Las Vegas in September/October, David's birthday dinner was at a
 
 ![](/images/chickpea(3s.jpg)
 
-#### Fried Capers ingredients:
+#### Fried Capers Ingredients:
 
 - 1/4 - 1/2 c capers
 - 4 T safflower or sunflower oil
 
-#### Fried Capers directions:
+#### Fried Capers Directions:
 
 **Drain** and dry the capers using a strainer, and then sandwich them between paper towels.
 

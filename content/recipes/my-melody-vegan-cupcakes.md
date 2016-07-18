@@ -11,7 +11,7 @@ tags = []
 
 ♫&nbsp;Listening to: I'd Rather Dance with You by Kings of Leon ♫
 
-#### Vegan Coconut Cupcake ingredients:
+#### Vegan Coconut Cupcake Ingredients:
 
 - 2 c flour
 - 1 t baking soda
@@ -28,7 +28,7 @@ tags = []
 
 
 
-#### Vegan Coconut Cupcake directions:
+#### Vegan Coconut Cupcake Directions:
 
 **Preheat** the oven to 350° and melt the coconut oil in the oven while it's preheating.
 
@@ -46,7 +46,7 @@ tags = []
 
 
 
-#### Vegan Coconut Icing ingredients:
+#### Vegan Coconut Icing Ingredients:
 
 - ½ cup earth balance or homemade vegan butter
 - ½ cup organic palm shortening
@@ -57,7 +57,7 @@ tags = []
 
 
 
-#### Vegan Coconut Icing directions:
+#### Vegan Coconut Icing Directions:
 
 **Whisk** the earth balance, palm shortening, and vanilla using a handheld mixer or stand mixer with the whisk attachment.
 
@@ -75,7 +75,7 @@ tags = []
 
 
 
-#### Vegan Pink Icing and Chocolate Eyes ingredients:
+#### Vegan Pink Icing and Chocolate Eyes Ingredients:
 
 - ½ cup cacao butter, melted on low on stovetop
 - ½ cup coconut oil, melted on low on stovetop
@@ -85,7 +85,7 @@ tags = []
 
 
 
-#### Vegan Pink Icing and Chocolate Eyes directions:
+#### Vegan Pink Icing and Chocolate Eyes Directions:
 
 **Melt** a half bag of vegan chocolate chips in a double boiler or in a small pot on low heat.
 

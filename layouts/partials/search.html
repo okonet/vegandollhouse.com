@@ -1,0 +1,6 @@
+{{ $searchVisible := (hasPrefix (trim (.Permalink | relURL) "/") "search") }}
+<div class="container search-bar {{ if not $searchVisible }}hidden{{ end }}">
+	<form action="/search" method="get">
+		<input id="q" name="q" placeholder="Search in the Vegan Dollhouse" type="text" autocomplete="off">
+	</form>
+</div>

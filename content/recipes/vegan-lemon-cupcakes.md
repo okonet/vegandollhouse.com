@@ -11,7 +11,7 @@ tags = []
 
 ♫&nbsp;Listening to: I'd Rather Dance With You by Kings of Convenience ♫
 
-#### Lemon Cupcake ingredients:
+#### Lemon Cupcake Ingredients:
 
 - 3 c unbleached white flour
 - 2 t baking soda
@@ -26,7 +26,7 @@ tags = []
 
 
 
-#### Lemon Cupcake directions:
+#### Lemon Cupcake Directions:
 
 **Preheat** the oven to 350°.
 
@@ -46,7 +46,7 @@ tags = []
 
 
 
-#### Raspberry Icing ingredients:
+#### Raspberry Icing Ingredients:
 
 - ¾ c earth balance
 - ¾ c organic palm shortening
@@ -58,7 +58,7 @@ tags = []
 
 
 
-#### Raspberry Icing directions:
+#### Raspberry Icing Directions:
 
 **Whisk** the shortening and margarine for 1 minute using an electric or stand mixer.
 

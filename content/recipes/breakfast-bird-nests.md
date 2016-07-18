@@ -15,7 +15,7 @@ Makes 12 nests with 3 sausage eggs in each one
 
 
 
-#### Hashbrown Nest ingredients:
+#### Hashbrown Nest Ingredients:
 
 - 3-4 al dente baked potatoes
 - coconut oil spray (or sub melted coconut oil)
@@ -23,7 +23,7 @@ Makes 12 nests with 3 sausage eggs in each one
 
 
 
-#### Hashbrown Nest directions:
+#### Hashbrown Nest Directions:
 
 **Preheat** the oven to 425°.
 
@@ -47,7 +47,7 @@ Makes 12 nests with 3 sausage eggs in each one
 
 
 
-#### Sausage Bird Eggs ingredients:
+#### Sausage Bird Eggs Ingredients:
 
 - ½ an onion, finely diced or processed
 - 2-4 tablespoons olive oil
@@ -70,7 +70,7 @@ Makes 12 nests with 3 sausage eggs in each one
 
 
 
-#### Sausage Bird Eggs directions:
+#### Sausage Bird Eggs Directions:
 
 **Sauté** the onion in oil until soft.
 

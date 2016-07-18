@@ -11,7 +11,7 @@ tags = []
 
 ♫&nbsp;Listening to: I'm Sorry by Steffaloo ♫
 
-#### Red Velvet Cookie ingredients:
+#### Red Velvet Cookie Ingredients:
 
 - 2 cups organic unbleached or whole wheat pastry flour
 - ⅓ cup cocoa powder
@@ -28,7 +28,7 @@ tags = []
 
 
 
-#### Red Velvet Cookie directions:
+#### Red Velvet Cookie Directions:
 
 **Mix** the dry ingredients together in a bowl: flour, cornstarch, salt, baking powder, and beetroot powder.
 

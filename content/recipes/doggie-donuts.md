@@ -13,7 +13,7 @@ tags = []
 
 How much is the doggie donut in the window? (arf! arf!) These doggie donuts are cake donuts with a solid chocolate coating like Little Debbies or Entemann’s donuts. Before I was vegan, I used to go to the Entemann’s outlet store and buy multiple boxes of the chocolate covered donuts at a time. I was an addict, and the list of ingredients was so long, I’m surprised they could fit them all on the side of the box! When I first discovered this donut recipe on VeganYumYum many years ago, I was so excited to finally be able to feed my addiction yet again. My inspiration for these doggie donuts was born when I was in Hawaii and Japan in 2015 and saw so many cute donuts with animal faces. They were all pastel colored and made to look like different animals, and I knew immediately that the world needed a vegan version. This recipe makes 9 donuts.
 
-#### Doggie Donut ingredients:
+#### Doggie Donut Ingredients:
 
 - 2 cups unbleached flour
 - 1 tablespoon baking powder
@@ -27,7 +27,7 @@ How much is the doggie donut in the window? (arf! arf!) These doggie donuts are 
 - egg replacer for 2 eggs (I used ener-g)
 - ½ cup vegan butter (or substitute any vegetable oil)
 
-#### Doggie Donut directions:
+#### Doggie Donut Directions:
 
 **Preheat** the oven to 350°.
 
@@ -47,11 +47,11 @@ How much is the doggie donut in the window? (arf! arf!) These doggie donuts are 
 
 
 
-#### Chocolate Coating ingredients:
+#### Chocolate Coating Ingredients:
 
 - 1 12 oz bag of chocolate chips
 
-#### Chocolate Coating directions:
+#### Chocolate Coating Directions:
 
 **Melt** the chocolate chips in a double boiler (or in a saucepan on low).
 
@@ -59,14 +59,14 @@ How much is the doggie donut in the window? (arf! arf!) These doggie donuts are 
 
 
 
-#### Decorations ingredients:
+#### Decorations Ingredients:
 
 - Ears: 5 large dandies marshmallows or 18 minis (You can substitute fondant.)
 - Eyes: 18 white chocolate chips (You can substitute any similarly-sized candies or sprinkles.)
 - Noses: 9 round pink, red, or white sprinkles (You can substitute any circle-shaped edible decoration)
 - Mouths: 18 long pink, red, or white sprinkles (I use Lieber’s, and if I dig around, I can usually find some curved sprinkles that make the doggie look like he’s smiling.)
 
-#### Decorations directions:
+#### Decorations Directions:
 
 **Cut** each marshmallow into 4 slices if you're using large dandies.
 

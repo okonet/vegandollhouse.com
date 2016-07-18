@@ -11,8 +11,10 @@
 
       <div class="main content">
         <article>
-          <header><h1>{{ .Title }}</h1></header>
-          <img src="{{ .Params.thumbnail }}" alt="{{ .Params.thumbnailAlt }}"/>
+          <header>
+            <h1>{{ .Title }}</h1>
+            <img src="{{ .Params.thumbnail }}" alt="{{ .Params.thumbnailalt }}"/>
+          </header>
 
           <div>{{ .Content }}</div>
         </article>

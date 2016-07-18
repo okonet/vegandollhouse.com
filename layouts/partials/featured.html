@@ -1,0 +1,19 @@
+<div class="featured">
+  {{ range first 3 .Site.Taxonomies.tags.featured }}
+  {{ with .Page }}
+  <div class="featured-panel">
+    <a href="{{ .Permalink }}">
+      <img src="{{ .Params.thumbnail }}" alt="{{ .Params.thumbnailalt }}">
+    </a>
+  </div>
+  <div class="featured-display">
+    <p class="title"><a href="{{ .Permalink }}">{{ .Title }}</a></p>
+    <p class="description">{{ .Params.featureddescription }}<p>
+
+    <div class="featured-footer">
+      <a href="{{ .Permalink }}">Read More</a>
+    </div>
+  </div>
+  {{ end }}
+  {{ end }}
+</div>

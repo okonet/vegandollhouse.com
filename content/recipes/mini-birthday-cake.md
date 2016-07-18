@@ -13,7 +13,7 @@ tags = []
 
 
 
-#### Vegan Chocolate Cake ingredients:
+#### Vegan Chocolate Cake Ingredients:
 
 - 1 ¼ cups unbleached white flour
 - ⅓ cup cocoa powder
@@ -27,7 +27,7 @@ tags = []
 
 
 
-#### Vegan Chocolate Cake directions:
+#### Vegan Chocolate Cake Directions:
 
 **Preheat** the oven to 350°.
 
@@ -43,7 +43,7 @@ tags = []
 
 
 
-#### Vegan Vanilla Frosting ingredients:
+#### Vegan Vanilla Frosting Ingredients:
 
 - ⅓&nbsp;cup earth balance or homemade vegan butter
 - ⅓&nbsp;cup organic palm shortening
@@ -54,7 +54,7 @@ tags = []
 
 
 
-#### Vegan Vanilla Frosting directions:
+#### Vegan Vanilla Frosting Directions:
 
 **Whisk** the butter, palm shortening, and vanilla using a handheld mixer or stand mixer with the whisk attachment.
 

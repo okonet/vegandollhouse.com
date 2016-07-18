@@ -9,7 +9,7 @@ description = "Vegan, gluten-free snickers cupcakes"
 tags = []
 +++
 
-#### Cupcake ingredients:
+#### Cupcake Ingredients:
 
 - 2&nbsp;cups fava chickpea flour
 - 1 cup cocoa powder
@@ -28,7 +28,7 @@ tags = []
 - ½&nbsp;tablespoon almond extract (you can sub more vanilla if you don't have this)
 - 1 cup hot water
 
-#### Cupcake directions:
+#### Cupcake Directions:
 
 **Preheat** the oven to 325°.
 
@@ -44,7 +44,7 @@ tags = []
 
 
 
-#### Caramel ingredients:
+#### Caramel Ingredients:
 
 - ⅛&nbsp;cup earth balance or coconut oil
 - ⅛ cup&nbsp;non-dairy milk
@@ -52,7 +52,7 @@ tags = []
 - ½ cup raw sugar
 - ⅛ teaspoon salt
 
-#### Caramel directions:
+#### Caramel Directions:
 
 **Whisk** &nbsp;the ingredients together over medium heat until it reaches the desired consistency.
 
@@ -62,12 +62,12 @@ tags = []
 
 
 
-#### Ganache ingredients:
+#### Ganache Ingredients:
 
 - 12 oz bag chocolate chips
 - ½ c sweetened soy or almond milk
 
-#### Ganache directions:
+#### Ganache Directions:
 
 **Heat** &nbsp;the chocolate chips and non-dairy milk in a saucepan over low heat, stirring often until all chips are melted.
 
@@ -77,7 +77,7 @@ tags = []
 
 
 
-#### Icing ingredients:
+#### Icing Ingredients:
 
 - ¼ cup&nbsp;earth balance
 - ¼ cup spectrum palm shortening
@@ -87,7 +87,7 @@ tags = []
 - 1 tablespoon&nbsp;vanilla extract
 - 3 cups organic powdered sugar
 
-#### Icing directions:
+#### Icing Directions:
 
 **Whisk** &nbsp;all the ingredients, except the powdered sugar, together using an electric mixer.
 

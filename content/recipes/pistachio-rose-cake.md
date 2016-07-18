@@ -11,7 +11,7 @@ tags = []
 
 ♫&nbsp;Listening to: Morning Dove by Robinella and the CC Stringband ♫
 
-#### Cake ingredients:
+#### Cake Ingredients:
 
 - 1 6-oz container vanilla wholesoy yogurt
 - 2 cups soy milk
@@ -27,7 +27,7 @@ tags = []
 - 1 cup unsalted pistachio pieces (plus some whole pistachios for optional garnishing)
 - 4 tablespoons rose powder
 
-#### Cake directions:
+#### Cake Directions:
 
 **Preheat** the oven to 350°.
 
@@ -55,12 +55,12 @@ tags = []
 
 ![vegan rose cake](/images/rose-layer.jpg)
 
-#### Ganache ingredients:
+#### Ganache Ingredients:
 
 - 2 bags chocolate chips
 - ½ cup sweetened soy or almond milk
 
-#### Ganache directions:
+#### Ganache Directions:
 
 **Melt** &nbsp;the chocolate chips and nondairy milk in a saucepan over low heat, stirring often.
 

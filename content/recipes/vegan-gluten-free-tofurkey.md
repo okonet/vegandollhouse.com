@@ -15,7 +15,7 @@ There are basically 3 parts to making this: the tofu, the stuffing, and the mari
 
 The photos in this post are from different years since I make this recipe every thanksgiving. [Here's a video](https://katch.me/vegandollhouse/v/8d96fd44-e721-3159-b469-747fae82e521) of me making this on periscope.
 
-#### **Tofu ingredients:**
+#### **Tofu Ingredients:**
 
 - 2 pounds extra-firm tofu (preferably organic)
 - ½ teaspoon garlic powder
@@ -23,7 +23,7 @@ The photos in this post are from different years since I make this recipe every 
 - ½ t smoked sea salt
 - ½ t salt
 
-#### **Marinade ingredients:**
+#### **Marinade Ingredients:**
 
 - ½ c olive oil
 - ½&nbsp;c braggs liquid aminos

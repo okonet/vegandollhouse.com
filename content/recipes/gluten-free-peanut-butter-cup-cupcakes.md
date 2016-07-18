@@ -13,7 +13,7 @@ tags = []
 
 
 
-#### Vegan Gluten-free Chocolate Cupcake ingredients:
+#### Vegan Gluten-free Chocolate Cupcake Ingredients:
 
 - 1 ⅔ c coconut-almond milk
 - 1 T apple cider vinegar
@@ -33,7 +33,7 @@ tags = []
 
 
 
-#### Vegan Gluten-free Chocolate Cupcake directions:
+#### Vegan Gluten-free Chocolate Cupcake Directions:
 
 **Preheat** the oven to 350°.
 
@@ -51,7 +51,7 @@ tags = []
 
 
 
-#### Peanut Butter filling/icing ingredients:
+#### Peanut Butter filling/icing Ingredients:
 
 - ½ c&nbsp;earth balance
 - ½ c spectrum palm shortening
@@ -63,7 +63,7 @@ tags = []
 
 
 
-#### Peanut Butter filling/icing directions:
+#### Peanut Butter filling/icing Directions:
 
 **Whisk** &nbsp;all the ingredients, except the powdered sugar, together using an electric mixer.
 

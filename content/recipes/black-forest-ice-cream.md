@@ -9,7 +9,7 @@ description = "I scream, you scream, we all scream for vegan ice cream."
 tags = []
 +++
 
-#### Black Forest Ice Cream ingredients:
+#### Black Forest Ice Cream Ingredients:
 
 - 1 c almond milk
 - 2 c so delicious vanilla coconut creamer
@@ -21,7 +21,7 @@ tags = []
 
 #### ![Ingredients for black forest ice cream](/images/black-forest-ic1.jpg)
 
-#### Black Forest Ice Cream directions:
+#### Black Forest Ice Cream Directions:
 
 **Whisk** the arrowroot with ¼ c almond milk. Add 1 T vanilla. Whisk again. Set aside.
 
