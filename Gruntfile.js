@@ -50,6 +50,7 @@ module.exports = function(grunt) {
                 section: frontMatter.section, 
                 thumbnail: frontMatter.thumbnail,
                 date: frontMatter.date,
+                description: frontMatter.description,
                 href: href,
                 content: S(content[2]).trim().stripTags().stripPunctuation().s
             };
@@ -79,6 +80,7 @@ module.exports = function(grunt) {
                 section: frontMatter.section, 
                 thumbnail: frontMatter.thumbnail,
                 date: frontMatter.date,
+                description: frontMatter.description,
                 href: href,
                 content: S(content[2]).trim().stripTags().stripPunctuation().s
             };

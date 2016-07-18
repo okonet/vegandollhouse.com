@@ -90,11 +90,12 @@ function renderResults(results) {
 
     // Only show the ten first results
     results.forEach(function(result) {
+      var summary = result.description || result.content.substring(0, 30)
       var result = '<div class="card">'
             + '<a href="'+ result.href +'"><img class="card-img-top img-fluid" src="'+ result.thumbnail + '"></a>'
             + '<div class="card-block">'
               + '<h4 class="card-title"><a href="'+ result.href +'">'+ result.title +'</a></h4>'
-              + '<p class="card-text">'+ result.content.substring(0, 30) +'</p>'
+              + '<p class="card-text">'+ summary +'</p>'
               + '<p class="card-text">'
                 + '<small class="text-muted">'
                 + 'Posted in <a href="/'+ result.section +'">'+ result.section +'</a> <relative-time datetime="'+ result.date +'">'+ result.date +'</relative-time>'
