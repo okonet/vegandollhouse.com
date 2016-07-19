@@ -1,13 +1,14 @@
-+++
-author = "Robin Means"
-title = "South Bay Vegan Drinks October 2015"
-section = "events"
-date = "2015-09-03 03:14:09 +0000"
-thumbnail = "/images/vd-sb-color-for-web.jpg"
-thumbnailAlt = "Southbay Vegan Drinks"
-description = "S+M Vegan will be doing a popup at the October vegan drinks, so come say hi!"
-tags = []
-+++
+---
+author: Robin Means
+date: 2015-09-03 03:14:09 +0000
+description: S+M Vegan will be doing a popup at the October vegan drinks, so come
+  say hi!
+section: events
+tags: []
+thumbnail: /images/vd-sb-color-for-web.jpg
+thumbnailAlt: Southbay Vegan Drinks
+title: South Bay Vegan Drinks October 2015
+---
 
 I'm sad to say that this will be my last month organizing Vegan Drinks. It made me really happy to grow it from 15 attendees to 70 in just 6 short months, but I must move on to bigger and better things (like my [new podcast](https://www.youtube.com/channel/UCnK9ShI0B4IBEsRK865sgQQ) and the [Vegan Prom](https://bayareasoiree.wordpress.com/)). The event will still continue with a new organizer (the next 2 dates will be November 19 and December 17). Here are some pictures and details from October's event.
 

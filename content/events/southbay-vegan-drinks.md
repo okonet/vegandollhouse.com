@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "South Bay Vegan Drinks May2015"
-section = "events"
-date = "2015-05-04 01:31:51 +0000"
-thumbnail = "/images/vd-sb-color-for-web.jpg"
-thumbnailAlt = "South Bay Vegan Drinks May 2015"
-description = "My first month hosting Vegan Drinks also happens to be my birthday month!"
-tags = []
-+++
+---
+author: Robin Means
+date: 2015-05-04 01:31:51 +0000
+description: My first month hosting Vegan Drinks also happens to be my birthday month!
+section: events
+tags: []
+thumbnail: /images/vd-sb-color-for-web.jpg
+thumbnailAlt: South Bay Vegan Drinks May 2015
+title: South Bay Vegan Drinks May2015
+---
 
 Since Brad is moving to Santa Cruz this month, I'll be hosting South Bay Vegan Drinks for awhile.
 

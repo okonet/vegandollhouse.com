@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Happy Birthday Millennium!"
-section = "blog"
-date = "2014-09-28 17:14:07 +0000"
-thumbnail = "/images/millennium16.jpg"
-thumbnailAlt = "watermelon radish appetizer"
-description = "Millennium turned 20 tonight, and I was there to celebrate."
-tags = []
-+++
+---
+author: Robin Means
+date: 2014-09-28 17:14:07 +0000
+description: Millennium turned 20 tonight, and I was there to celebrate.
+section: blog
+tags: []
+thumbnail: /images/millennium16.jpg
+thumbnailAlt: watermelon radish appetizer
+title: Happy Birthday Millennium!
+---
 
 Millennium is by far the best vegan restaurant in northern California, so needless to say, I dine there us much as possible. I've been to quite a few events that they have including the southern comfort annual dinner and the winemaker's events. [Tonight's event](http://www.millenniumrestaurant.com/events/event/1113/) was nothing like those, but I ended up being pleasantly surprised.
 

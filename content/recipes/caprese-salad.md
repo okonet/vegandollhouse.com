@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Caprese Salad"
-section = "recipes"
-date = "2014-06-13 19:16:12 +0000"
-thumbnail = "/images/caprese1.jpg"
-thumbnailAlt = ""
-description = "Soy-free, gluten-free, vegan caprese salad"
-tags = []
-+++
+---
+author: Robin Means
+date: 2014-06-13 19:16:12 +0000
+description: Soy-free, gluten-free, vegan caprese salad
+section: recipes
+tags: []
+thumbnail: /images/caprese1.jpg
+thumbnailAlt: ""
+title: Caprese Salad
+---
 
 #### Caprese Salad Ingredients:
 

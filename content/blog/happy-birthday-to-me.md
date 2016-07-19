@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Unicorn Birthday 2015"
-section = "blog"
-date = "2015-06-14 02:45:22 +0000"
-thumbnail = "/images/robin4.jpg"
-thumbnailAlt = "I love birthdays!"
-description = "vegan kawaii birthdays = unicorns + tea parties"
-tags = []
-+++
+---
+author: Robin Means
+date: 2015-06-14 02:45:22 +0000
+description: vegan kawaii birthdays = unicorns + tea parties
+section: blog
+tags: []
+thumbnail: /images/robin4.jpg
+thumbnailAlt: I love birthdays!
+title: Unicorn Birthday 2015
+---
 
 2015 was a big birthday for me, so I wanted to make sure I did something different so I would remember it forever. The answer was obvious. Ride a unicorn. And nobody wants to ride a unicorn alone, so I coerced some friends to ride unicorns with me.
 

@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Bay Area Vegan Potluck 2015"
-section = "blog"
-date = "2015-08-17 04:13:34 +0000"
-thumbnail = "/images/pig5.jpg"
-thumbnailAlt = "watermelon pig"
-description = "...and how to make a pig from a watermelon"
-tags = []
-+++
+---
+author: Robin Means
+date: 2015-08-17 04:13:34 +0000
+description: '...and how to make a pig from a watermelon'
+section: blog
+tags: []
+thumbnail: /images/pig5.jpg
+thumbnailAlt: watermelon pig
+title: Bay Area Vegan Potluck 2015
+---
 
 I typically don't bring melon to potlucks because I know our bodies digest melon differently than other foods, so it's best to eat it by itself. However, I couldn't think of a cuter way to serve sangria than from a piggy.
 

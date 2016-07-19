@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Scalloped Pizza Bites"
-section = "recipes"
-date = "2014-09-10 05:51:00 +0000"
-thumbnail = "/images/pizza-bites13.jpg"
-thumbnailAlt = "Vegan scalloped pizza bites"
-description = "vegan pizza bites = cute appetizer to bring to a party"
-tags = []
-+++
+---
+author: Robin Means
+date: 2014-09-10 05:51:00 +0000
+description: vegan pizza bites = cute appetizer to bring to a party
+section: recipes
+tags: []
+thumbnail: /images/pizza-bites13.jpg
+thumbnailAlt: Vegan scalloped pizza bites
+title: Scalloped Pizza Bites
+---
 
 ♫&nbsp;Listening to: Another Day by Carousel ♫
 

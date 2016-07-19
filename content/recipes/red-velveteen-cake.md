@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Red Velveteen Cake"
-section = "recipes"
-date = "2016-01-16 04:10:49 +0000"
-thumbnail = "/images/red-velvet-cake3.jpg"
-thumbnailAlt = "vegan red velvet mini heart cake"
-description = "Vegan Red Velvet mini cakes"
-tags = []
-+++
+---
+author: Robin Means
+date: 2016-01-16 04:10:49 +0000
+description: Vegan Red Velvet mini cakes
+section: recipes
+tags: []
+thumbnail: /images/red-velvet-cake3.jpg
+thumbnailAlt: vegan red velvet mini heart cake
+title: Red Velveteen Cake
+---
 
 ♫&nbsp;Listening to: The Darkest Side by The Middle East ♫
 

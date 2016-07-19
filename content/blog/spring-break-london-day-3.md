@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Spring Break: London (Day 3)"
-section = "blog"
-date = "2014-04-20 16:41:50 +0000"
-thumbnail = "/images/Cakes-drinks.jpg"
-thumbnailAlt = ""
-description = "Day 3 of the London Vegan Adventure"
-tags = []
-+++
+---
+author: Robin Means
+date: 2014-04-20 16:41:50 +0000
+description: Day 3 of the London Vegan Adventure
+section: blog
+tags: []
+thumbnail: /images/Cakes-drinks.jpg
+thumbnailAlt: ""
+title: 'Spring Break: London (Day 3)'
+---
 
 If I die, I hope I end up at [Cakes N Treats](http://www.yelp.com/biz/cakes-n-treats-london)...aka heaven if it were customized for Robins. Things that make this place so amazing include the following.
 

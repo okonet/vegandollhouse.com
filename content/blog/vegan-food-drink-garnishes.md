@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Vegan Food/drink Garnishes"
-section = "blog"
-date = "2014-09-28 20:53:11 +0000"
-thumbnail = "/images/tillen-farms3.jpg"
-thumbnailAlt = "vegan bloody mary"
-description = "Tillen Farms product review (aka I want to add garnishes to everything!)"
-tags = []
-+++
+---
+author: Robin Means
+date: 2014-09-28 20:53:11 +0000
+description: Tillen Farms product review (aka I want to add garnishes to everything!)
+section: blog
+tags: []
+thumbnail: /images/tillen-farms3.jpg
+thumbnailAlt: vegan bloody mary
+title: Vegan Food/drink Garnishes
+---
 
 As much as I love everything cute, I tend to shy away from cute things that I think that are made with toxic on non-vegan ingredients. This is an extremely difficult thing to do, because there are so many adorable kawaii things that aren't vegan or have chemicals in them.
 

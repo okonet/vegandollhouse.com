@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Tofu Breakfast Baskets"
-section = "recipes"
-date = "2014-01-26 05:56:30 +0000"
-thumbnail = "/images/basket.jpg"
-thumbnailAlt = ""
-description = "How do you bring tofu scramble to a picnic?"
-tags = []
-+++
+---
+author: Robin Means
+date: 2014-01-26 05:56:30 +0000
+description: How do you bring tofu scramble to a picnic?
+section: recipes
+tags: []
+thumbnail: /images/basket.jpg
+thumbnailAlt: ""
+title: Tofu Breakfast Baskets
+---
 
 #### Ingredients:
 

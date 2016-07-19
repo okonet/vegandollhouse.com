@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Birthday gift idea"
-section = "blog"
-date = "2014-09-18 06:12:26 +0000"
-thumbnail = "/images/muffin-mix5.jpg"
-thumbnailAlt = "homemade vegan muffin mix"
-description = "Homemade vegan muffin mix"
-tags = []
-+++
+---
+author: Robin Means
+date: 2014-09-18 06:12:26 +0000
+description: Homemade vegan muffin mix
+section: blog
+tags: []
+thumbnail: /images/muffin-mix5.jpg
+thumbnailAlt: homemade vegan muffin mix
+title: Birthday gift idea
+---
 
 Sometimes birthdays sneak up on you, and you don't have time to go shopping for the perfect present. Sometimes google shopping express doesn't have the perfect present (\*gasp\*). Sometimes Amazon Prime doesn't ship fast enough for last minute birthdays...not that the birthday was last minute...the birthday is always on the same day every year...I'm not trying to blame the birthday for my inability to plan ahead here. This post is the solution to this exact problem...if the birthday girl in question happens to like quirky, yet well-appreciated and stylish gifts (thank you Erik's copywriting skills).
 

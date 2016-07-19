@@ -1,14 +1,15 @@
-+++
-author = "Robin Means"
-title = "Dutch Rocky Road Cupcakes"
-section = "recipes"
-date = "2015-05-20 04:32:58 +0000"
-thumbnail = "/images/IMG_0741.png"
-thumbnailAlt = "vegan rocky road cupcakes"
-description = "Better than vegan s'mores"
-featuredDescription = "Better than vegan s'mores"
-tags = ["featured"]
-+++
+---
+author: Robin Means
+date: 2015-05-20 04:32:58 +0000
+description: Better than vegan s'mores
+featuredDescription: Better than vegan s'mores
+section: recipes
+tags:
+- featured
+thumbnail: /images/IMG_0741.png
+thumbnailAlt: vegan rocky road cupcakes
+title: Dutch Rocky Road Cupcakes
+---
 
 <p class="song">♫ Listening to: Your New Beloved by Lovelife ♫</p>
 

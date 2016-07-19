@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Chocolate Salad Cake"
-section = "recipes"
-date = "2014-11-21 06:00:56 +0000"
-thumbnail = "/images/salad-cake8.jpg"
-thumbnailAlt = "vegan chocolate salad cake with ganache"
-description = "A healthier version of Isabelle's favorite cake"
-tags = []
-+++
+---
+author: Robin Means
+date: 2014-11-21 06:00:56 +0000
+description: A healthier version of Isabelle's favorite cake
+section: recipes
+tags: []
+thumbnail: /images/salad-cake8.jpg
+thumbnailAlt: vegan chocolate salad cake with ganache
+title: Chocolate Salad Cake
+---
 
 ♫&nbsp;Listening to: Painful Like by Austra ♫
 

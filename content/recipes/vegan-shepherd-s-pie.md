@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Vegan Shepherd's Pie"
-section = "recipes"
-date = "2014-02-14 05:01:18 +0000"
-thumbnail = "/images/shepherd-pie-baked.jpg"
-thumbnailAlt = "Shepherd's Pie"
-description = "I think the sheep would approve of this vegan shepherd's pie."
-tags = []
-+++
+---
+author: Robin Means
+date: 2014-02-14 05:01:18 +0000
+description: I think the sheep would approve of this vegan shepherd's pie.
+section: recipes
+tags: []
+thumbnail: /images/shepherd-pie-baked.jpg
+thumbnailAlt: Shepherd's Pie
+title: Vegan Shepherd's Pie
+---
 
 #### Ingredients:
 

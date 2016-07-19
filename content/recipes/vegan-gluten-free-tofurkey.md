@@ -1,13 +1,14 @@
-+++
-author = "Robin Means"
-title = "Vegan Gluten-free Tofurkey"
-section = "recipes"
-date = "2013-12-01 02:19:31 +0000"
-thumbnail = "/images/tofurkey4.jpg"
-thumbnailAlt = "Vegan Thanksgiving Tofu Heart w/ stuffing"
-description = "Vegan, organic, and gluten-free, this is a healthy alternative to eating turkey on Thanksgiving."
-tags = []
-+++
+---
+author: Robin Means
+date: 2013-12-01 02:19:31 +0000
+description: Vegan, organic, and gluten-free, this is a healthy alternative to eating
+  turkey on Thanksgiving.
+section: recipes
+tags: []
+thumbnail: /images/tofurkey4.jpg
+thumbnailAlt: Vegan Thanksgiving Tofu Heart w/ stuffing
+title: Vegan Gluten-free Tofurkey
+---
 
 I don't mind the store bought tofurky, and actually really like the stuffing that the Turtle Island Tofurky has inside of it. Even Trader Joe's had a vegan tofurky this year (I have one in my freezer, but haven't actually sampled it yet). However, as far as I know, all of the store-bought ones are high in gluten, and I have quite a few people in my life who try to avoid eating gluten. That is how the birth of the homemade gluten-free tofurkey came about.
 

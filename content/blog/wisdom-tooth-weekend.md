@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Wisdom Tooth Weekend"
-section = "blog"
-date = "2014-09-22 16:43:26 +0000"
-thumbnail = "/images/wisdom-tooth-weekend1.jpg"
-thumbnailAlt = "Chipmunk"
-description = "Here's a vegan menu for when you have wisdom teeth extracted"
-tags = []
-+++
+---
+author: Robin Means
+date: 2014-09-22 16:43:26 +0000
+description: Here's a vegan menu for when you have wisdom teeth extracted
+section: blog
+tags: []
+thumbnail: /images/wisdom-tooth-weekend1.jpg
+thumbnailAlt: Chipmunk
+title: Wisdom Tooth Weekend
+---
 
 ♫&nbsp;Listening to: Wisdom Tooth Weekend by Sicko ♫
 

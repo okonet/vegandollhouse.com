@@ -1,13 +1,14 @@
-+++
-author = "Robin Means"
-title = "Pokeparty!"
-section = "blog"
-date = "2013-11-20 02:58:39 +0000"
-thumbnail = "/images/pokeballs.jpg"
-thumbnailAlt = "Pokeballs"
-description = "Isabelle and Ashleigh had a pokeparty (pokemon-themed birthday party) since their birthdays are within a week of eachother, so I made pokeball cupcakes."
-tags = []
-+++
+---
+author: Robin Means
+date: 2013-11-20 02:58:39 +0000
+description: Isabelle and Ashleigh had a pokeparty (pokemon-themed birthday party)
+  since their birthdays are within a week of eachother, so I made pokeball cupcakes.
+section: blog
+tags: []
+thumbnail: /images/pokeballs.jpg
+thumbnailAlt: Pokeballs
+title: Pokeparty!
+---
 
 Pokemon seems to be a phase that everyone goes through at some point in their life (except for me because I think it may have been born when I was into punk rock music and thought I was too tough to like cute little kid stuff). Zen and Isabelle went through a pokemon stage a few years ago, and like most stages it faded away, and the Phamphey and Piplup jackets I made them went unworn. Then all of a sudden, after I had basically forgotten what the word pokemon meant, they came back to life--like little cute supernatural zombie creatures! Now all I hear about is charmander and houdour and celebi. So, it wasn't a huge surprise when I asked what kind of cupcakes Isabelle and Ashleigh wanted for their 12th birthday dance party, and they said the theme was pokemon.
 

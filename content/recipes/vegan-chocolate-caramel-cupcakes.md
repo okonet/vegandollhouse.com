@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Vegan Snickers Cupcakes"
-section = "recipes"
-date = "2014-07-23 04:24:56 +0000"
-thumbnail = "/images/snickers-garnished.jpg"
-thumbnailAlt = "Snickers Cupcakes"
-description = "Vegan, gluten-free snickers cupcakes"
-tags = []
-+++
+---
+author: Robin Means
+date: 2014-07-23 04:24:56 +0000
+description: Vegan, gluten-free snickers cupcakes
+section: recipes
+tags: []
+thumbnail: /images/snickers-garnished.jpg
+thumbnailAlt: Snickers Cupcakes
+title: Vegan Snickers Cupcakes
+---
 
 #### Cupcake Ingredients:
 

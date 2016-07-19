@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Chockerdoodle Cupcakes"
-section = "recipes"
-date = "2014-09-06 07:08:56 +0000"
-thumbnail = "/images/chocolate-snickerdoodle7.jpg"
-thumbnailAlt = "vegan chocolate snickerdoodle cupcake"
-description = "Vegan chocolate snickerdoodle cupcakes because cinnamon is the new kale"
-tags = []
-+++
+---
+author: Robin Means
+date: 2014-09-06 07:08:56 +0000
+description: Vegan chocolate snickerdoodle cupcakes because cinnamon is the new kale
+section: recipes
+tags: []
+thumbnail: /images/chocolate-snickerdoodle7.jpg
+thumbnailAlt: vegan chocolate snickerdoodle cupcake
+title: Chockerdoodle Cupcakes
+---
 
 ♫&nbsp;Listening to: Busy by Jawbreaker ♫
 

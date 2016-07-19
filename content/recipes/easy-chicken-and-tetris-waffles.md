@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Chicken and Tetris Waffles"
-section = "recipes"
-date = "2014-09-30 00:24:00 +0000"
-thumbnail = "/images/chicken-waffle-bites4.jpg"
-thumbnailAlt = "vegan chicken & waffle bites"
-description = "Easy bite-sized vegan (Beyond Meat) chicken and waffles"
-tags = []
-+++
+---
+author: Robin Means
+date: 2014-09-30 00:24:00 +0000
+description: Easy bite-sized vegan (Beyond Meat) chicken and waffles
+section: recipes
+tags: []
+thumbnail: /images/chicken-waffle-bites4.jpg
+thumbnailAlt: vegan chicken & waffle bites
+title: Chicken and Tetris Waffles
+---
 
 ♫&nbsp;Listening to: Wooly by Breathe Carolina ♫
 

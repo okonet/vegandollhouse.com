@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Tokyo"
-section = "blog"
-date = "2015-10-03 00:23:16 +0000"
-thumbnail = "/images/Screen-Shot-2015-10-02-at-5.02.19-PM.png"
-thumbnailAlt = "Vegan cheesecake at Pure Cafe"
-description = "Vegan Tokyo adventure"
-tags = []
-+++
+---
+author: Robin Means
+date: 2015-10-03 00:23:16 +0000
+description: Vegan Tokyo adventure
+section: blog
+tags: []
+thumbnail: /images/Screen-Shot-2015-10-02-at-5.02.19-PM.png
+thumbnailAlt: Vegan cheesecake at Pure Cafe
+title: Tokyo
+---
 
 ### Day 1
 

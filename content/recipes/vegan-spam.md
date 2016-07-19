@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Vegan Spam Recipe"
-section = "recipes"
-date = "2013-11-03 04:06:02 +0000"
-thumbnail = "/images/musubi4.jpg"
-thumbnailAlt = ""
-description = "Vegan spam, which can then be used to make vegan spam musubi"
-tags = []
-+++
+---
+author: Robin Means
+date: 2013-11-03 04:06:02 +0000
+description: Vegan spam, which can then be used to make vegan spam musubi
+section: recipes
+tags: []
+thumbnail: /images/musubi4.jpg
+thumbnailAlt: ""
+title: Vegan Spam Recipe
+---
 
 #### Ingredients:
 

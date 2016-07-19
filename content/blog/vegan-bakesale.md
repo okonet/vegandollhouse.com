@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Vegan Bakesale"
-section = "blog"
-date = "2014-02-12 06:41:55 +0000"
-thumbnail = "/images/March2014bakesale.png"
-thumbnailAlt = ""
-description = "We need bakers and eaters to help raise money for the pups on March 15."
-tags = []
-+++
+---
+author: Robin Means
+date: 2014-02-12 06:41:55 +0000
+description: We need bakers and eaters to help raise money for the pups on March 15.
+section: blog
+tags: []
+thumbnail: /images/March2014bakesale.png
+thumbnailAlt: ""
+title: Vegan Bakesale
+---
 
 [Kimmy](http://rockmyvegansocks.vaskor.ca/) and I are organizing a bakesale to raise money for [Doggie Protection Services (DPS)](http://www.dpsrescue.org/). They helped Kimmy find her souldog (aka doggie soulmate obvs) Sunny, and Isabelle has been making friends with all kinds of doggies by volunteering at their adoption events. I was even lucky enough to foster a boxer named Fireball for DPS for one night, and I haven't stopped thinking about him since.
 

@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Jessica's Birthday 2014"
-section = "blog"
-date = "2014-07-30 04:10:15 +0000"
-thumbnail = "/images/StrawberryShortcakeJessica.jpg"
-thumbnailAlt = "Jessica with her strawberry shortcakes"
-description = "Strawberry shortcake and tea time"
-tags = []
-+++
+---
+author: Robin Means
+date: 2014-07-30 04:10:15 +0000
+description: Strawberry shortcake and tea time
+section: blog
+tags: []
+thumbnail: /images/StrawberryShortcakeJessica.jpg
+thumbnailAlt: Jessica with her strawberry shortcakes
+title: Jessica's Birthday 2014
+---
 
 If you know Jessica, then you know she's the most adorable person that ever lived. So, when she asked for strawberry shortcake as her birthday dessert, I immediately started brainstorming how I could make it as cute as her. Okay, that's not possible, but I at least had to try. Strawberry shortcake has this connotation, for me at least, as being this hard biscuit with shapeless pieces of strawberries strewn about, and a glob of whipped cream. It's not an attractive dessert. The colors are nice, but that almost always happens when you're willing to sacrifice taste (ahem, chocolate) for looks (brown is just not a cute color, pretty much ever).
 

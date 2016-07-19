@@ -1,13 +1,14 @@
-+++
-author = "Robin Means"
-title = "South Bay Vegan Drinks July2015"
-section = "events"
-date = "2015-06-28 05:24:01 +0000"
-thumbnail = "/images/vd-sb-color-for-web.jpg"
-thumbnailAlt = "Southbay Vegan Drinks"
-description = "July 2015 is our second month hosting vegan drinks at The Fountainhead Bar"
-tags = []
-+++
+---
+author: Robin Means
+date: 2015-06-28 05:24:01 +0000
+description: July 2015 is our second month hosting vegan drinks at The Fountainhead
+  Bar
+section: events
+tags: []
+thumbnail: /images/vd-sb-color-for-web.jpg
+thumbnailAlt: Southbay Vegan Drinks
+title: South Bay Vegan Drinks July2015
+---
 
 ![July 2015 South Bay Vegan Drinks](/images/VDflier-July.png)
 

@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Veggie Millet Bites"
-section = "recipes"
-date = "2014-09-13 05:19:39 +0000"
-thumbnail = "/images/veg-bites2.jpg"
-thumbnailAlt = "Veggie Millet bites"
-description = "Flowers and bunnies and bears, oh my! Gluten-free and vegan."
-tags = []
-+++
+---
+author: Robin Means
+date: 2014-09-13 05:19:39 +0000
+description: Flowers and bunnies and bears, oh my! Gluten-free and vegan.
+section: recipes
+tags: []
+thumbnail: /images/veg-bites2.jpg
+thumbnailAlt: Veggie Millet bites
+title: Veggie Millet Bites
+---
 
 ♫&nbsp;Listening to: Heartbeats by The Knife ♫
 

@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "XOXOXO"
-section = "blog"
-date = "2013-12-09 05:56:00 +0000"
-thumbnail = "/images/xo.jpg"
-thumbnailAlt = ""
-description = "Make a super easy meal for someone(s) you love."
-tags = []
-+++
+---
+author: Robin Means
+date: 2013-12-09 05:56:00 +0000
+description: Make a super easy meal for someone(s) you love.
+section: blog
+tags: []
+thumbnail: /images/xo.jpg
+thumbnailAlt: ""
+title: XOXOXO
+---
 
 Sometimes you want to make a dinner that shows someone you love them, but you don't love them enough have the time/energy to make an elaborate meal. Instead of the obvious option of using dry erase markers to write XOXO all over the rim of their plate, you can instead make XOs out of food.
 

@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Vegan Mounds Bar Waffles"
-section = "recipes"
-date = "2015-11-26 16:44:40 +0000"
-thumbnail = "/images/waffles3.jpg"
-thumbnailAlt = "Vegan coconut chocolate chip waffles"
-description = "Coconut Chocolate Chip Waffles"
-tags = []
-+++
+---
+author: Robin Means
+date: 2015-11-26 16:44:40 +0000
+description: Coconut Chocolate Chip Waffles
+section: recipes
+tags: []
+thumbnail: /images/waffles3.jpg
+thumbnailAlt: Vegan coconut chocolate chip waffles
+title: Vegan Mounds Bar Waffles
+---
 
 ♫&nbsp;Listening to: King and Cross by Ásgeir ♫
 

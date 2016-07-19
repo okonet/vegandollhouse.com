@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Vegan Pot Pie"
-section = "recipes"
-date = "2014-04-24 05:10:19 +0000"
-thumbnail = "/images/potpie2.jpg"
-thumbnailAlt = ""
-description = "Vegan Chicken Pot Pie that's even better as leftovers"
-tags = []
-+++
+---
+author: Robin Means
+date: 2014-04-24 05:10:19 +0000
+description: Vegan Chicken Pot Pie that's even better as leftovers
+section: recipes
+tags: []
+thumbnail: /images/potpie2.jpg
+thumbnailAlt: ""
+title: Vegan Pot Pie
+---
 
 #### Pot Pie filling Ingredients:
 

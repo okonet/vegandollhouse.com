@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Not Im-Grrrr"
-section = "blog"
-date = "2014-01-14 07:20:29 +0000"
-thumbnail = "/images/imgur.jpg"
-thumbnailAlt = ""
-description = "These vegan cupcakes went to Imgur with an Imguraffe."
-tags = []
-+++
+---
+author: Robin Means
+date: 2014-01-14 07:20:29 +0000
+description: These vegan cupcakes went to Imgur with an Imguraffe.
+section: blog
+tags: []
+thumbnail: /images/imgur.jpg
+thumbnailAlt: ""
+title: Not Im-Grrrr
+---
 
 Have you ever met someone who reads a lot and learns most of their vocabulary through written word, as opposed to conversation? My sister is one of these people, and if you have one in your life as well, then you know these people tend to have their own unique way of pronouncing certain words. I've never classified myself as one of these people (mostly because I don't know how to read), until 2014 apparently.
 

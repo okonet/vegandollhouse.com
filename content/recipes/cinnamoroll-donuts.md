@@ -1,13 +1,14 @@
-+++
-author = "Robin Means"
-title = "Cinnamoroll Donuts"
-section = "recipes"
-date = "2016-01-02 23:50:30 +0000"
-thumbnail = "/images/cinnamoroll-donuts12.jpg"
-thumbnailAlt = "Vegan Cinnamoroll Donuts"
-description = "These Sanrio-inspired treats are featured in a SF bay area dessert cafe zine"
-tags = []
-+++
+---
+author: Robin Means
+date: 2016-01-02 23:50:30 +0000
+description: These Sanrio-inspired treats are featured in a SF bay area dessert cafe
+  zine
+section: recipes
+tags: []
+thumbnail: /images/cinnamoroll-donuts12.jpg
+thumbnailAlt: Vegan Cinnamoroll Donuts
+title: Cinnamoroll Donuts
+---
 
 ♫&nbsp;Listening to: Somebody That by Elliott Smith ♫
 

@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Easter Smoothie"
-section = "recipes"
-date = "2014-08-24 23:21:33 +0000"
-thumbnail = "/images/smoothie2.jpg"
-thumbnailAlt = "Easter in the summertime smoothie"
-description = "If Easter were in the summer, this would be the signature smoothie"
-tags = []
-+++
+---
+author: Robin Means
+date: 2014-08-24 23:21:33 +0000
+description: If Easter were in the summer, this would be the signature smoothie
+section: recipes
+tags: []
+thumbnail: /images/smoothie2.jpg
+thumbnailAlt: Easter in the summertime smoothie
+title: Easter Smoothie
+---
 
 ♫&nbsp;Listening to: ♫
 

@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Pressed Salad"
-section = "blog"
-date = "2014-07-10 03:09:43 +0000"
-thumbnail = "/images/pressed-salad.jpg"
-thumbnailAlt = "Pressed Salad"
-description = "Pressed salad is the new chopped salad"
-tags = []
-+++
+---
+author: Robin Means
+date: 2014-07-10 03:09:43 +0000
+description: Pressed salad is the new chopped salad
+section: blog
+tags: []
+thumbnail: /images/pressed-salad.jpg
+thumbnailAlt: Pressed Salad
+title: Pressed Salad
+---
 
 Apparently, the new craze in salad these days is pressed salad. I hadn't ever had one before making this one, so it was kind of an experiment. I've only been hearing about them for the past month or so. From what I understand, it's sort of similar to the process of making sauerkraut, so it has a lot of the same health benefits, even though it only has about an hour to ferment.
 

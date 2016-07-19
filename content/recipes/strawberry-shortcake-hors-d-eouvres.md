@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Strawberry Shortcake"
-section = "recipes"
-date = "2014-07-26 08:04:41 +0000"
-thumbnail = "/images/StrawberryShortcakeStrawberryPick.jpg"
-thumbnailAlt = "Strawberry Shortcake"
-description = "Cute vegan strawberry shortcake hors d'oeuvres"
-tags = []
-+++
+---
+author: Robin Means
+date: 2014-07-26 08:04:41 +0000
+description: Cute vegan strawberry shortcake hors d'oeuvres
+section: recipes
+tags: []
+thumbnail: /images/StrawberryShortcakeStrawberryPick.jpg
+thumbnailAlt: Strawberry Shortcake
+title: Strawberry Shortcake
+---
 
 ♫&nbsp;Listening to: We've Had Enough by Alkaline Trio&nbsp;♫
 

@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Pumpkin Cheesecake Bears"
-section = "recipes"
-date = "2014-11-23 17:49:50 +0000"
-thumbnail = "/images/pumpkin-cheesecake-bears.jpg"
-thumbnailAlt = "Vegan Pumpkin Cheesecake Bears"
-description = "Vegan pumpkin cheesecakes so cute you can bearly eat it"
-tags = []
-+++
+---
+author: Robin Means
+date: 2014-11-23 17:49:50 +0000
+description: Vegan pumpkin cheesecakes so cute you can bearly eat it
+section: recipes
+tags: []
+thumbnail: /images/pumpkin-cheesecake-bears.jpg
+thumbnailAlt: Vegan Pumpkin Cheesecake Bears
+title: Pumpkin Cheesecake Bears
+---
 
 ♫&nbsp;Listening to: Take It Out On Me by Chairlift ♫
 

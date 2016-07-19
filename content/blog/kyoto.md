@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Kyoto"
-section = "blog"
-date = "2015-11-08 00:20:15 +0000"
-thumbnail = "/images/kyoto26.jpg"
-thumbnailAlt = "% Arabica"
-description = "Vegan Kyoto adventure"
-tags = []
-+++
+---
+author: Robin Means
+date: 2015-11-08 00:20:15 +0000
+description: Vegan Kyoto adventure
+section: blog
+tags: []
+thumbnail: /images/kyoto26.jpg
+thumbnailAlt: '% Arabica'
+title: Kyoto
+---
 
 ### Day 1
 

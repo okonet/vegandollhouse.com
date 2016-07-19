@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Breakfast Bird Nests"
-section = "recipes"
-date = "2016-04-30 21:48:18 +0000"
-thumbnail = "/images/birds-nests.jpg"
-thumbnailAlt = "Vegan Bird Nests"
-description = "A nest that the mommy bird would approve of"
-tags = []
-+++
+---
+author: Robin Means
+date: 2016-04-30 21:48:18 +0000
+description: A nest that the mommy bird would approve of
+section: recipes
+tags: []
+thumbnail: /images/birds-nests.jpg
+thumbnailAlt: Vegan Bird Nests
+title: Breakfast Bird Nests
+---
 
 ♫&nbsp;Listening to: To The World by Strike Anywhere ♫
 

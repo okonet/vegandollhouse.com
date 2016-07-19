@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Pumpkin Tartlets"
-section = "recipes"
-date = "2015-11-27 01:03:35 +0000"
-thumbnail = "/images/pumpkin-tartlettes5.jpg"
-thumbnailAlt = "Vegan doll-sized pumpkin tartlettes"
-description = "Bite-sized vegan pumpkin pie"
-tags = []
-+++
+---
+author: Robin Means
+date: 2015-11-27 01:03:35 +0000
+description: Bite-sized vegan pumpkin pie
+section: recipes
+tags: []
+thumbnail: /images/pumpkin-tartlettes5.jpg
+thumbnailAlt: Vegan doll-sized pumpkin tartlettes
+title: Pumpkin Tartlets
+---
 
 ♫&nbsp;Listening to: Clouds by BØRNS ♫
 

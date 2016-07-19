@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Mac-n-Cheese Hearts"
-section = "recipes"
-date = "2015-08-04 06:13:06 +0000"
-thumbnail = "/images/mac-n-cheese-bites1.jpg"
-thumbnailAlt = "Vegan fried mac n cheese hearts"
-description = "Fried food CAN be cute!"
-tags = []
-+++
+---
+author: Robin Means
+date: 2015-08-04 06:13:06 +0000
+description: Fried food CAN be cute!
+section: recipes
+tags: []
+thumbnail: /images/mac-n-cheese-bites1.jpg
+thumbnailAlt: Vegan fried mac n cheese hearts
+title: Mac-n-Cheese Hearts
+---
 
 ♫&nbsp;Listening to: Between the Devil and the Deep Blue Sea by XYLØ ♫
 

@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Enchilada Mini Cakes"
-section = "recipes"
-date = "2014-09-04 01:45:33 +0000"
-thumbnail = "/images/enchiladas9.jpg"
-thumbnailAlt = "Mini vegan enchilada cake"
-description = "Hopefully an amenable vegan schoolday lunch"
-tags = []
-+++
+---
+author: Robin Means
+date: 2014-09-04 01:45:33 +0000
+description: Hopefully an amenable vegan schoolday lunch
+section: recipes
+tags: []
+thumbnail: /images/enchiladas9.jpg
+thumbnailAlt: Mini vegan enchilada cake
+title: Enchilada Mini Cakes
+---
 
 ♫&nbsp;Listening to: Please, Please, Please Let Me Get What I Want by The Smiths ♫
 

@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Mini Birthday Cake"
-section = "recipes"
-date = "2015-08-26 04:18:28 +0000"
-thumbnail = "/images/ombre-cake4.jpg"
-thumbnailAlt = "Vegan ombre cake"
-description = "Chocolate cake for vegans and omnis"
-tags = []
-+++
+---
+author: Robin Means
+date: 2015-08-26 04:18:28 +0000
+description: Chocolate cake for vegans and omnis
+section: recipes
+tags: []
+thumbnail: /images/ombre-cake4.jpg
+thumbnailAlt: Vegan ombre cake
+title: Mini Birthday Cake
+---
 
 ♫&nbsp;Listening to: Dark Charms by Banta ♫
 

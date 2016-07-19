@@ -1,7 +1,7 @@
-+++
-Title    = "About"
-Layout   = "about"
-+++
+---
+Layout: about
+Title: About
+---
 
 ![](/images/birthdaygirl.jpg)
 

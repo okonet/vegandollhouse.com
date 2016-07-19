@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "QkMuffin Breakfast Sandwich"
-section = "blog"
-date = "2014-03-09 21:41:39 +0000"
-thumbnail = "/images/breakfast-sandwich-closed.jpg"
-thumbnailAlt = ""
-description = "Easy decadent vegan breakfast sandwich"
-tags = []
-+++
+---
+author: Robin Means
+date: 2014-03-09 21:41:39 +0000
+description: Easy decadent vegan breakfast sandwich
+section: blog
+tags: []
+thumbnail: /images/breakfast-sandwich-closed.jpg
+thumbnailAlt: ""
+title: QkMuffin Breakfast Sandwich
+---
 
 The first time I ever had a vegan breakfast sandwich was at [Farmhouse Conf 2](http://farmhouse.la/conf/2). I already knew I loved [Shane](https://twitter.com/veganstraightedge) from the moment I met him, but when I attended a conference at his house that was catered with 3 vegan meals plus snacks, Tonx coffee, and drinks, it sealed the friendship.
 

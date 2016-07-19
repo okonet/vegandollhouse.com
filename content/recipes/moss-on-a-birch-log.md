@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Moss on a Birch Log"
-section = "recipes"
-date = "2014-09-25 02:44:53 +0000"
-thumbnail = "/images/birch-log3.jpg"
-thumbnailAlt = ""
-description = "A savory version of ants on a log for the raisin haters"
-tags = []
-+++
+---
+author: Robin Means
+date: 2014-09-25 02:44:53 +0000
+description: A savory version of ants on a log for the raisin haters
+section: recipes
+tags: []
+thumbnail: /images/birch-log3.jpg
+thumbnailAlt: ""
+title: Moss on a Birch Log
+---
 
 ♫&nbsp;Listening to: Jesus the Mexican Boy by Iron & Wine ♫
 

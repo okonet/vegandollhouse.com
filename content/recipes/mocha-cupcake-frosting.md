@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Mocha Cupcakes"
-section = "recipes"
-date = "2014-09-03 03:06:13 +0000"
-thumbnail = "/images/mocha-icing4.jpg"
-thumbnailAlt = "vegan mocha icing"
-description = "Coffee coffee buzz buzz buzz"
-tags = []
-+++
+---
+author: Robin Means
+date: 2014-09-03 03:06:13 +0000
+description: Coffee coffee buzz buzz buzz
+section: recipes
+tags: []
+thumbnail: /images/mocha-icing4.jpg
+thumbnailAlt: vegan mocha icing
+title: Mocha Cupcakes
+---
 
 ♫&nbsp;Listening to: Fineshrine by Purity Ring ♫
 

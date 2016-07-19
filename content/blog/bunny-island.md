@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Bunny Island"
-section = "blog"
-date = "2015-10-20 07:32:28 +0000"
-thumbnail = "/images/bunnyisland3.jpg"
-thumbnailAlt = "bunny island"
-description = "Vegan Okunoshima adventure"
-tags = []
-+++
+---
+author: Robin Means
+date: 2015-10-20 07:32:28 +0000
+description: Vegan Okunoshima adventure
+section: blog
+tags: []
+thumbnail: /images/bunnyisland3.jpg
+thumbnailAlt: bunny island
+title: Bunny Island
+---
 
 Can you think of the happiest you've ever been in your life? Maybe there are a lot of different experiences that come to mind. Mine was a couple of weeks ago on Bunny Island. My life is basically downhill from here, haha.
 

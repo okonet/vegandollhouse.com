@@ -1,13 +1,14 @@
-+++
-author = "Robin Means"
-title = "Halloween 2013"
-section = "blog"
-date = "2013-11-03 07:00:00 +0000"
-thumbnail = "/images/bats.jpg"
-thumbnailAlt = "Bat crackers"
-description = "My entry into the Halloween-themed food contest at work this year was vegan bat crackers and pumpkin hummus."
-tags = []
-+++
+---
+author: Robin Means
+date: 2013-11-03 07:00:00 +0000
+description: My entry into the Halloween-themed food contest at work this year was
+  vegan bat crackers and pumpkin hummus.
+section: blog
+tags: []
+thumbnail: /images/bats.jpg
+thumbnailAlt: Bat crackers
+title: Halloween 2013
+---
 
 Every single one of the seven years I have worked at Empirical, we have had a Halloween costume contest. I personally love the idea, even though I haven't ever won, because I like seeing my co-workers dressed up. However, this year, I decided to use a google survey to ask my coworkers what they wanted to do for Halloween. Not one single person voted for the conventional costume contest! They're over it. They wanted something new. The option receiving the most votes was to have a Halloween-themed food contest.
 

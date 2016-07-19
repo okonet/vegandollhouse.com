@@ -1,13 +1,14 @@
-+++
-author = "Robin Means"
-title = "Vegan Tiramisu Recipe"
-section = "recipes"
-date = "2013-11-03 20:07:43 +0000"
-thumbnail = "/images/tiramisu.jpg"
-thumbnailAlt = "Tiramisu"
-description = "Vegan tiramisu is perfect for environmentalists: they're vegan, and waste-free!"
-tags = []
-+++
+---
+author: Robin Means
+date: 2013-11-03 20:07:43 +0000
+description: 'Vegan tiramisu is perfect for environmentalists: they''re vegan, and
+  waste-free!'
+section: recipes
+tags: []
+thumbnail: /images/tiramisu.jpg
+thumbnailAlt: Tiramisu
+title: Vegan Tiramisu Recipe
+---
 
 This recipe makes&nbsp;24 coffee cupcakes w/ chocolate mouse filling and cream cheese icing. For pictures of each step, read the accompanying [blog entry](/blog/josipas-birthday-2013).
 

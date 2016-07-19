@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Doggie Donuts"
-section = "recipes"
-date = "2015-12-11 18:41:01 +0000"
-thumbnail = "/images/doggie-donuts1.jpg"
-thumbnailAlt = "Vegan Doggie Donuts"
-description = "How much is the donut in the window? Arf arf."
-tags = []
-+++
+---
+author: Robin Means
+date: 2015-12-11 18:41:01 +0000
+description: How much is the donut in the window? Arf arf.
+section: recipes
+tags: []
+thumbnail: /images/doggie-donuts1.jpg
+thumbnailAlt: Vegan Doggie Donuts
+title: Doggie Donuts
+---
 
 ♫&nbsp;Listening to: Carousel Ride by Rubblebucket ♫
 

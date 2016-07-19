@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Pizza Pinwheels"
-section = "recipes"
-date = "2016-02-15 22:33:46 +0000"
-thumbnail = "/images/pizza-rolls7.jpg"
-thumbnailAlt = "Vegan Pizza Pinwheels"
-description = "Pizza Pinwheel is the new cinnamon roll"
-tags = []
-+++
+---
+author: Robin Means
+date: 2016-02-15 22:33:46 +0000
+description: Pizza Pinwheel is the new cinnamon roll
+section: recipes
+tags: []
+thumbnail: /images/pizza-rolls7.jpg
+thumbnailAlt: Vegan Pizza Pinwheels
+title: Pizza Pinwheels
+---
 
 ♫&nbsp;Listening to: Chain My Name by Poliça ♫
 

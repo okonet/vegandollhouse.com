@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Tea Party at the Dollhouse"
-section = "blog"
-date = "2015-08-03 05:45:24 +0000"
-thumbnail = "/images/ice-cream-stars1.jpg"
-thumbnailAlt = "Vegan star-shaped ice cream sandwiches"
-description = "A vegan tea party at the vegan dollhouse"
-tags = []
-+++
+---
+author: Robin Means
+date: 2015-08-03 05:45:24 +0000
+description: A vegan tea party at the vegan dollhouse
+section: blog
+tags: []
+thumbnail: /images/ice-cream-stars1.jpg
+thumbnailAlt: Vegan star-shaped ice cream sandwiches
+title: Tea Party at the Dollhouse
+---
 
 After visiting [Muir's tea room](https://instagram.com/p/0i6t5HKYWG/?taken-by=vegandollhouse), the bay area vegan girls and I decided that the next tea party would be at my house (aka the Vegan Dollhouse). [Ashley](http://www.theveganadventure.com/) came early to help me set up, and she made these cute tea sandwiches that represent veganism and love all while hugging field roast and chao cheese. They were inspired by the tea sandwiches we had at Muir's tea room.
 

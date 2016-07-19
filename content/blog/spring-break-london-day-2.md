@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Spring Break: London (Day 2)"
-section = "blog"
-date = "2014-04-16 12:59:32 +0000"
-thumbnail = "/images/Vx.jpg"
-thumbnailAlt = ""
-description = "Day 2 of my vegan adventure in London"
-tags = []
-+++
+---
+author: Robin Means
+date: 2014-04-16 12:59:32 +0000
+description: Day 2 of my vegan adventure in London
+section: blog
+tags: []
+thumbnail: /images/Vx.jpg
+thumbnailAlt: ""
+title: 'Spring Break: London (Day 2)'
+---
 
 Day 2 of the London Vegan Adventure began with a complimentary breakfast at the Wesley Hotel. Similar to the Radisson's breakfast, this was an extravagant traditional english breakfast. Since the chef was actually cooking right there out in the open, I was able to ask him what items were vegan, and I ended up being able to eat a pretty decent variety. They also had soy milk and organic sugar for the coffee. Also, is it just me or does all the coffee in London taste watered down? When I was in Spain, it all tasted twice as strong, and in London, it all tasted half as strong. Is this a geographic preference? I wonder what people from other countries think of San Francisco coffee.
 

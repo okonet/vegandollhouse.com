@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Osaka"
-section = "blog"
-date = "2015-11-07 23:13:54 +0000"
-thumbnail = "/images/osaka1.jpg"
-thumbnailAlt = "Just another Rilakkuma store in Japan"
-description = "Quick stop in Osaka for dinner"
-tags = []
-+++
+---
+author: Robin Means
+date: 2015-11-07 23:13:54 +0000
+description: Quick stop in Osaka for dinner
+section: blog
+tags: []
+thumbnail: /images/osaka1.jpg
+thumbnailAlt: Just another Rilakkuma store in Japan
+title: Osaka
+---
 
 Since Osaka is fairly close to Nara, it was an easy stop for dinner before heading back to Kyoto for the night. We walked around until it was time for dinner. This plant nursery was painted so cute. I feel like it could be in Berkeley.
 

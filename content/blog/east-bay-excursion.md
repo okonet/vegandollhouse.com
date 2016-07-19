@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "East Bay Excursion"
-section = "blog"
-date = "2014-09-09 01:44:25 +0000"
-thumbnail = "/images/sanctuary-bistro3.jpg"
-thumbnailAlt = "Vegan Crab Cakes"
-description = "Dinner at Sanctuary Bistro in Berkeley"
-tags = []
-+++
+---
+author: Robin Means
+date: 2014-09-09 01:44:25 +0000
+description: Dinner at Sanctuary Bistro in Berkeley
+section: blog
+tags: []
+thumbnail: /images/sanctuary-bistro3.jpg
+thumbnailAlt: Vegan Crab Cakes
+title: East Bay Excursion
+---
 
 I’ve been wanting to check out Sanctuary Bistro in Berkeley since they opened a few weeks ago. I finally had a free day, so I planned a few other east bay activities to partake in before din din.
 

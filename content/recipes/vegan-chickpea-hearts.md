@@ -1,13 +1,14 @@
-+++
-author = "Robin Means"
-title = "Vegan Chickpea Hearts"
-section = "recipes"
-date = "2013-12-30 05:04:34 +0000"
-thumbnail = "/images/chickpea(3s2.jpg"
-thumbnailAlt = ""
-description = "Chickpea hearts can also be stars, triangles, or other shapes. Fried caper garnish is highly recommended."
-tags = []
-+++
+---
+author: Robin Means
+date: 2013-12-30 05:04:34 +0000
+description: Chickpea hearts can also be stars, triangles, or other shapes. Fried
+  caper garnish is highly recommended.
+section: recipes
+tags: []
+thumbnail: /images/chickpea(3s2.jpg
+thumbnailAlt: ""
+title: Vegan Chickpea Hearts
+---
 
 When we were in Las Vegas in September/October, David's birthday dinner was at an italian restaurant at the Wynn called Bartolotta. One of the appetizers on the menu was a chickpea patty cut into triangles and served with a fried caper garnish. It was soooo amazing that it made up for the fact that the boys had to go to the mall to buy shirts with collars because of the Wynn restaurants and their stupid ass dresscodes. For a few weeks after that dinner, I seriously just wanted to make a vat of fried capers, and carry them around with me forevermore so I could add them to everything I eat. I recovered from that stage and instead, decided to try to replicate the recipe at home.
 

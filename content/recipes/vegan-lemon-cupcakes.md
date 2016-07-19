@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Lemony Snicket Cupcakes"
-section = "recipes"
-date = "2014-08-08 02:35:03 +0000"
-thumbnail = "/images/LemonySnicket3.jpg"
-thumbnailAlt = "Vegan Lemon Raspberry Cupcakes"
-description = "Vegan lemon cupcakes with raspberry vanilla icing"
-tags = []
-+++
+---
+author: Robin Means
+date: 2014-08-08 02:35:03 +0000
+description: Vegan lemon cupcakes with raspberry vanilla icing
+section: recipes
+tags: []
+thumbnail: /images/LemonySnicket3.jpg
+thumbnailAlt: Vegan Lemon Raspberry Cupcakes
+title: Lemony Snicket Cupcakes
+---
 
 ♫&nbsp;Listening to: I'd Rather Dance With You by Kings of Convenience ♫
 

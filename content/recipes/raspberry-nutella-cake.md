@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Raspberry Nutella Cake"
-section = "recipes"
-date = "2015-10-24 18:17:14 +0000"
-thumbnail = "/images/nutella-raspberry-cake1.jpg"
-thumbnailAlt = "Vegan raspberry nutella cake"
-description = "Gluten-free vegan birthday cake"
-tags = []
-+++
+---
+author: Robin Means
+date: 2015-10-24 18:17:14 +0000
+description: Gluten-free vegan birthday cake
+section: recipes
+tags: []
+thumbnail: /images/nutella-raspberry-cake1.jpg
+thumbnailAlt: Vegan raspberry nutella cake
+title: Raspberry Nutella Cake
+---
 
 ♫&nbsp;Listening to: 10,000 Emerald Pools by BØRNS ♫
 

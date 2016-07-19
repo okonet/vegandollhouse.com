@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Art and Wine Festival"
-section = "blog"
-date = "2014-09-07 17:15:55 +0000"
-thumbnail = "/images/artwine8.jpg"
-thumbnailAlt = "Ice cream cones with vegan chocolate and sprinkles"
-description = "Mountain View's Art & Wine Festival spurred the theme of the day"
-tags = []
-+++
+---
+author: Robin Means
+date: 2014-09-07 17:15:55 +0000
+description: Mountain View's Art & Wine Festival spurred the theme of the day
+section: blog
+tags: []
+thumbnail: /images/artwine8.jpg
+thumbnailAlt: Ice cream cones with vegan chocolate and sprinkles
+title: Art and Wine Festival
+---
 
 After attending a couple of vegan beer fests and jpop summit recently, I told myself to start avoiding activities where there are large amounts of people. This epiphany was based on a couple of factors, one being the fact that I don't really care for other humans, and the other being that I don't have the patience to wait in long lines before getting what I want.
 

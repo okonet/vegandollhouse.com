@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Vegan Prom"
-section = "blog"
-date = "2016-01-15 04:29:55 +0000"
-thumbnail = "/images/prom-logo-square.png"
-thumbnailAlt = "San Francisco Vegan Prom"
-description = "If you had a sucky prom (or no prom, like me), this is your redux!"
-tags = []
-+++
+---
+author: Robin Means
+date: 2016-01-15 04:29:55 +0000
+description: If you had a sucky prom (or no prom, like me), this is your redux!
+section: blog
+tags: []
+thumbnail: /images/prom-logo-square.png
+thumbnailAlt: San Francisco Vegan Prom
+title: Vegan Prom
+---
 
 Prom is only 2 months away, and I realized that I never even posted anything about it here. For those of you who read my blog, you know how good (bad) I am about updating it, so this should come as no surprise.
 

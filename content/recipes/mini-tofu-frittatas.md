@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Kale Mushroom Frittata"
-section = "recipes"
-date = "2014-09-27 03:11:41 +0000"
-thumbnail = "/images/fritatta3.jpg"
-thumbnailAlt = "Vegan Kale Mushroom Fritatta"
-description = "Gluten-free vegan frittata for brunch"
-tags = []
-+++
+---
+author: Robin Means
+date: 2014-09-27 03:11:41 +0000
+description: Gluten-free vegan frittata for brunch
+section: recipes
+tags: []
+thumbnail: /images/fritatta3.jpg
+thumbnailAlt: Vegan Kale Mushroom Fritatta
+title: Kale Mushroom Frittata
+---
 
 #### Frittata Ingredients:
 

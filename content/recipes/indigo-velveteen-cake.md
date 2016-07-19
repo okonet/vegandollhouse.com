@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Indigo Velveteen Cake"
-section = "recipes"
-date = "2016-05-13 05:03:03 +0000"
-thumbnail = "/images/iced.jpg"
-thumbnailAlt = "Vegan Blue Velvet Cake"
-description = "Red Velvet cake goes punk (a.k.a. Blue Velvet cake)"
-tags = []
-+++
+---
+author: Robin Means
+date: 2016-05-13 05:03:03 +0000
+description: Red Velvet cake goes punk (a.k.a. Blue Velvet cake)
+section: recipes
+tags: []
+thumbnail: /images/iced.jpg
+thumbnailAlt: Vegan Blue Velvet Cake
+title: Indigo Velveteen Cake
+---
 
 ♫&nbsp;Listening to: Dance the Way I Feel by Ou Est Le Swimming Pool ♫
 

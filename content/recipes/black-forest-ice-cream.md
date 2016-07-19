@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Black Forest Ice Cream"
-section = "recipes"
-date = "2014-06-19 05:22:25 +0000"
-thumbnail = "/images/black-forest-ic6.jpg"
-thumbnailAlt = "Black Forest Ice Cream Cones"
-description = "I scream, you scream, we all scream for vegan ice cream."
-tags = []
-+++
+---
+author: Robin Means
+date: 2014-06-19 05:22:25 +0000
+description: I scream, you scream, we all scream for vegan ice cream.
+section: recipes
+tags: []
+thumbnail: /images/black-forest-ic6.jpg
+thumbnailAlt: Black Forest Ice Cream Cones
+title: Black Forest Ice Cream
+---
 
 #### Black Forest Ice Cream Ingredients:
 

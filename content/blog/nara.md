@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Nara"
-section = "blog"
-date = "2015-11-07 22:53:44 +0000"
-thumbnail = "/images/nara10.jpg"
-thumbnailAlt = "Wild deer in Nara Park"
-description = "Nara, Japan adventure"
-tags = []
-+++
+---
+author: Robin Means
+date: 2015-11-07 22:53:44 +0000
+description: Nara, Japan adventure
+section: blog
+tags: []
+thumbnail: /images/nara10.jpg
+thumbnailAlt: Wild deer in Nara Park
+title: Nara
+---
 
 Oh. My. Gawsh. First Bunny Island and now a city that has wild deer walking around??? Can this country be any cuter?
 

@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Christmas in Paradise"
-section = "blog"
-date = "2015-12-29 04:48:23 +0000"
-thumbnail = "/images/sunset.jpg"
-thumbnailAlt = "Palm Springs sunset"
-description = "My first trip to Palm Springs and my first wolf interaction"
-tags = []
-+++
+---
+author: Robin Means
+date: 2015-12-29 04:48:23 +0000
+description: My first trip to Palm Springs and my first wolf interaction
+section: blog
+tags: []
+thumbnail: /images/sunset.jpg
+thumbnailAlt: Palm Springs sunset
+title: Christmas in Paradise
+---
 
 We arrived in Palm Springs around suppertime on Christmas eve. Native Foods had already closed, so we had dinner at a muggle restaurant that had a lot of vegan options. It was called Palm Greens Cafe.
 

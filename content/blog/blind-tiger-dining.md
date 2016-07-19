@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Blind Tiger dining"
-section = "blog"
-date = "2014-10-04 19:20:06 +0000"
-thumbnail = "/images/SMvegan7.jpg"
-thumbnailAlt = "build-your-own-reuben"
-description = "My first experience at the blind tiger dinners hosted by S+M Vegan Chefs"
-tags = []
-+++
+---
+author: Robin Means
+date: 2014-10-04 19:20:06 +0000
+description: My first experience at the blind tiger dinners hosted by S+M Vegan Chefs
+section: blog
+tags: []
+thumbnail: /images/SMvegan7.jpg
+thumbnailAlt: build-your-own-reuben
+title: Blind Tiger dining
+---
 
 Finally! I have been wanting to try S+M Vegan for months now (since I first heard of them), and I finally got lucky enough to try it. I can't recall how I first heard of them early this year, but I think I joined a meetup group in hopes of either attending or hosting one of their elusive pop-up dinners. After realizing that their meetup group was relatively inactive, I saw them listed as a vendor at the east bay vegan beer fest. So, even though I was packing to move that weekend, I drove to the east bay just to partake in this infamous reuben. Sadly, the event was so crowded and the lines were so long, that I had to depart before being given the opportunity to try some of their delectable fare.
 

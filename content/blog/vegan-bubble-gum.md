@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Vegan Bubble Gum"
-section = "blog"
-date = "2014-09-17 03:57:01 +0000"
-thumbnail = "/images/bubble-gum4.jpg"
-thumbnailAlt = "vegan all-natural gluten-free bubble gum"
-description = "Product review of TreeHugger bubble gum"
-tags = []
-+++
+---
+author: Robin Means
+date: 2014-09-17 03:57:01 +0000
+description: Product review of TreeHugger bubble gum
+section: blog
+tags: []
+thumbnail: /images/bubble-gum4.jpg
+thumbnailAlt: vegan all-natural gluten-free bubble gum
+title: Vegan Bubble Gum
+---
 
 I recently learned that my eldest was stopping at a store on his way home from school, buying a pack of gum, and basically chewing the entire thing while doing homework before I even arrive home from work. I read the ingredients on the pack of gum, and I was appalled. I've spent this kid's entire life feeding him all organic, vegan food, and not even buying him toothpaste that has toxic ingredients, only to find out that he will apparently put ANYTHING into his body without even batting one of his long lush gorgeous eyelashes (he definitely didn't get those from me!).
 

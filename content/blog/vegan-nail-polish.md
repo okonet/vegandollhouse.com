@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Vegan Nail Polish"
-section = "blog"
-date = "2015-04-04 16:30:16 +0000"
-thumbnail = "/images/IMG_0350.JPG"
-thumbnailAlt = "Scotch Naturals"
-description = "A list of vegan nail polish that are free of at least 3 common toxins"
-tags = []
-+++
+---
+author: Robin Means
+date: 2015-04-04 16:30:16 +0000
+description: A list of vegan nail polish that are free of at least 3 common toxins
+section: blog
+tags: []
+thumbnail: /images/IMG_0350.JPG
+thumbnailAlt: Scotch Naturals
+title: Vegan Nail Polish
+---
 
 I really like having cutely painted nails. This goes back to when I used to DJ at college radio stations, and it would make me happy to see my fingernails when I was running the board. Now it translates to seeing my fingers on the keyboard at work. It just makes me happier.
 

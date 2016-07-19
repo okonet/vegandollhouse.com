@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Peanut Butter Cup^2cakes"
-section = "recipes"
-date = "2014-08-11 05:12:43 +0000"
-thumbnail = "/images/PBcupcakes3.jpg"
-thumbnailAlt = "Gluten-free Vegan Peanut Butter Cup Cupcakes"
-description = "15 vegan, gluten-free peanut butter chocolate cupcakes"
-tags = []
-+++
+---
+author: Robin Means
+date: 2014-08-11 05:12:43 +0000
+description: 15 vegan, gluten-free peanut butter chocolate cupcakes
+section: recipes
+tags: []
+thumbnail: /images/PBcupcakes3.jpg
+thumbnailAlt: Gluten-free Vegan Peanut Butter Cup Cupcakes
+title: Peanut Butter Cup^2cakes
+---
 
 ♫&nbsp;Listening to: Psychic City by Yacht ♫
 

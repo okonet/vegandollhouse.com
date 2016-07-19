@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Gingerbread Dollhouses"
-section = "blog"
-date = "2013-12-27 05:52:40 +0000"
-thumbnail = "/images/neighborhood.jpg"
-thumbnailAlt = ""
-description = "These gingerbread houses fit on the edge of your teacup or cocoa mug."
-tags = []
-+++
+---
+author: Robin Means
+date: 2013-12-27 05:52:40 +0000
+description: These gingerbread houses fit on the edge of your teacup or cocoa mug.
+section: blog
+tags: []
+thumbnail: /images/neighborhood.jpg
+thumbnailAlt: ""
+title: Gingerbread Dollhouses
+---
 
 While I was growing up, most people said that the best holiday was Christmas. I can only assume that the reason for this blatant LIE was the copious amounts of presents that children would receive on this particular occasion, as opposed to the infiltration of holiday-themed songs in every public location during the entire month or the abundance of fruitcake--quite possibly the worst dessert ever invented. Although I don't actually celebrate Christmas, I do think that the holiday has a few redeeming qualities. One is mistletoe, because well, who wouldn't love a parasite that encourages random make outs? But my favoritest thing about Christmas is decorating gingerbread houses! Michael's craft store actually sells a vegan-by-default gingerbread house kit, which I took advantage of last year since they went on sale for 99 cent just before New Years. However, I didn't actually want to eat it after enjoying its beauty for a few weeks, because although it was vegan, it definitely wasn't organic and probably wasn't very delicious either.
 

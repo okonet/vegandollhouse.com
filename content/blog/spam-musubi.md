@@ -1,13 +1,14 @@
-+++
-author = "Robin Means"
-title = "Jessica's birthday 2012"
-section = "blog"
-date = "2013-09-02 22:42:27 +0000"
-thumbnail = "/images/musubi4.jpg"
-thumbnailAlt = "Vegan spam musubi"
-description = "Terence and I stayed up until 3am making food for Jessica's birthday, but the best thing we made was vegan spam musubi."
-tags = []
-+++
+---
+author: Robin Means
+date: 2013-09-02 22:42:27 +0000
+description: Terence and I stayed up until 3am making food for Jessica's birthday,
+  but the best thing we made was vegan spam musubi.
+section: blog
+tags: []
+thumbnail: /images/musubi4.jpg
+thumbnailAlt: Vegan spam musubi
+title: Jessica's birthday 2012
+---
 
 About a week before Jessica's birthday, I asked her what kind of cupcakes she would like for her birthday, and since Jessica does everything cute and fancy x1000, she did not request vanilla cupcakes with vanilla icing. She did not even request chocolate cupcakes with chocolate ganache. Oh noooooo. She (of course) requested a combination of things I have zero experience in. Jessica requested chocolate salted caramel cupcakes. As if making vegan caramel anything wasn't challenging enough, she also mentioned that her party was Adventure Time themed. If you (like me) are not a watcher of this cartoon, you probably don't know how difficult these characters would be (for someone with little to no artistic talent) to draw with icing.
 

@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Spring Break: London      (Day 1)"
-section = "blog"
-date = "2014-04-10 16:14:31 +0000"
-thumbnail = "/images/milkshake.jpg"
-thumbnailAlt = ""
-description = "Day 1 of 3: London Vegan Adventure"
-tags = []
-+++
+---
+author: Robin Means
+date: 2014-04-10 16:14:31 +0000
+description: 'Day 1 of 3: London Vegan Adventure'
+section: blog
+tags: []
+thumbnail: /images/milkshake.jpg
+thumbnailAlt: ""
+title: 'Spring Break: London      (Day 1)'
+---
 
 If you travel by Ryan Air, you’ll find yourself arriving in STN, which is an hour outside of London. If you arrive at midnight, like I did, you may opt to stay the night at one of the airport hotels and head to London in the morning. In addition to the benefit of going to sleep sooner, the hotels by the airport are also cheaper than the ones in London. I chose the Radisson Blu, because hotels.com had a room with free wifi and breakfast.
 

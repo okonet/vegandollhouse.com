@@ -1,13 +1,14 @@
-+++
-author = "Robin Means"
-title = "Josipa's birthday 2013"
-section = "blog"
-date = "2013-10-16 07:00:00 +0000"
-thumbnail = "/images/tiramisu.jpg"
-thumbnailAlt = "Tiramisu"
-description = "For Josipa's birthday, I made tiramisu cupcakes in honor of the first time we ever tried to bake together."
-tags = []
-+++
+---
+author: Robin Means
+date: 2013-10-16 07:00:00 +0000
+description: For Josipa's birthday, I made tiramisu cupcakes in honor of the first
+  time we ever tried to bake together.
+section: blog
+tags: []
+thumbnail: /images/tiramisu.jpg
+thumbnailAlt: Tiramisu
+title: Josipa's birthday 2013
+---
 
 It's Josipa's birthday! Last year she requested the [same cupcakes](http://ieatcupcakes.tumblr.com/post/33220426853/salted-caramel) that I had made the month before for Jessica's birthday, which were apparently a big hit, however, Josipa deserves a [new recipe](http://vegandollhouse.com/recipes/vegan-tiramisu-recipe) for her birthday because she's the Cutest Croatian Cupie (C<sup>3</sup>) doll in the world!
 

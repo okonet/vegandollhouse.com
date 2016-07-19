@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Vegan tea time in London"
-section = "blog"
-date = "2014-04-10 07:52:11 +0000"
-thumbnail = "/images/mymelody_tea-time.jpg"
-thumbnailAlt = ""
-description = "Places that serve vegan afternoon tea in London"
-tags = []
-+++
+---
+author: Robin Means
+date: 2014-04-10 07:52:11 +0000
+description: Places that serve vegan afternoon tea in London
+section: blog
+tags: []
+thumbnail: /images/mymelody_tea-time.jpg
+thumbnailAlt: ""
+title: Vegan tea time in London
+---
 
 I love tea parties! I’ve had a couple in [my backyard](https://flic.kr/p/c7oWtf), one [in a park](https://flic.kr/p/frN9Xc), and have visited a few tea houses ([Darteeling](https://flic.kr/p/evc3Tw),&nbsp;[Crown & Crumpet](https://flic.kr/p/9dagTd), and [Petunia's](http://ieatcupcakes.tumblr.com/post/56159439819/petunias)) in San Francisco and Portland. I love how all the food is cute. The only time I have actually been to a high tea was at the Stanford Inn. They offer an all-vegan high tea every day for their overnight guests, and it’s divine! They give you a choice of coconut or soy creamer for your tea, and I have only been once, but I would love to go again! (They’re also doggie friendly if you have a pooch in your life who you would like to invite to high tea.)
 

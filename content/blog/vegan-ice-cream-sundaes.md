@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Vegan Hot Fudge Sundaes"
-section = "blog"
-date = "2014-09-16 02:00:57 +0000"
-thumbnail = "/images/cookie-bowl7.jpg"
-thumbnailAlt = "vegan cookie ice cream sundae"
-description = "I scream, you scream, we all scream for vegan ice cream sundaes"
-tags = []
-+++
+---
+author: Robin Means
+date: 2014-09-16 02:00:57 +0000
+description: I scream, you scream, we all scream for vegan ice cream sundaes
+section: blog
+tags: []
+thumbnail: /images/cookie-bowl7.jpg
+thumbnailAlt: vegan cookie ice cream sundae
+title: Vegan Hot Fudge Sundaes
+---
 
 The last time I made these, I couldn't share the pictures with the world because the cookie bowls ended up looking like the hunchcookie of vegan dollhouse. They were not attractive. Or as the book Wonder that Isabelle has been reading to me says, "The universe was not kind to those cookie bowls."
 

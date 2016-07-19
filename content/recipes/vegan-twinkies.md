@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Vegan Twinkies"
-section = "recipes"
-date = "2014-09-11 02:09:18 +0000"
-thumbnail = "/images/twinkies9.jpg"
-thumbnailAlt = "Vegan twinkies"
-description = "A mostly organic version of the former (gross) twinkies"
-tags = []
-+++
+---
+author: Robin Means
+date: 2014-09-11 02:09:18 +0000
+description: A mostly organic version of the former (gross) twinkies
+section: recipes
+tags: []
+thumbnail: /images/twinkies9.jpg
+thumbnailAlt: Vegan twinkies
+title: Vegan Twinkies
+---
 
 ♫&nbsp;Listening to: We by Felix Da Housecat ♫
 

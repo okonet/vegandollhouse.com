@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Cold brew is better"
-section = "blog"
-date = "2014-09-24 04:55:07 +0000"
-thumbnail = "/images/wisdom-tooth-weekend10.jpg"
-thumbnailAlt = "cold brew"
-description = "Cold brew tastes better, it's healthier, and it's super easy to make!"
-tags = []
-+++
+---
+author: Robin Means
+date: 2014-09-24 04:55:07 +0000
+description: Cold brew tastes better, it's healthier, and it's super easy to make!
+section: blog
+tags: []
+thumbnail: /images/wisdom-tooth-weekend10.jpg
+thumbnailAlt: cold brew
+title: Cold brew is better
+---
 
 I feel kinda silly writing a blog post on cold brew, since it's so easy to make, but I guess it seems weird not to include it on my website since it's such a huge part of my diet. I have a coffee addiction. A big one. I limit myself to drinking coffee twice a day, but in actuality, I want to drink it all day long. The second I finish drinking it, I wish there was more, and the only reason I eat lunch is so that I can earn my second cup of coffee.
 

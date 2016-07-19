@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Vegan Products for 2015"
-section = "blog"
-date = "2015-03-08 18:41:20 +0000"
-thumbnail = "/images/Steves2.jpg"
-thumbnailAlt = "Steve's ice cream"
-description = "Natural Product Expo West 2015: How to break your tummy"
-tags = []
-+++
+---
+author: Robin Means
+date: 2015-03-08 18:41:20 +0000
+description: 'Natural Product Expo West 2015: How to break your tummy'
+section: blog
+tags: []
+thumbnail: /images/Steves2.jpg
+thumbnailAlt: Steve's ice cream
+title: Vegan Products for 2015
+---
 
 Ohhhh Natural Products Expo West, how do I love thee? Let me count the ways...
 

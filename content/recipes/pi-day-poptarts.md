@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Pi Day Poptarts"
-section = "recipes"
-date = "2014-03-07 05:18:45 +0000"
-thumbnail = "/images/poptarts.jpg"
-thumbnailAlt = ""
-description = "Vegan cherry poptarts are perfect for March 14"
-tags = []
-+++
+---
+author: Robin Means
+date: 2014-03-07 05:18:45 +0000
+description: Vegan cherry poptarts are perfect for March 14
+section: recipes
+tags: []
+thumbnail: /images/poptarts.jpg
+thumbnailAlt: ""
+title: Pi Day Poptarts
+---
 
 Pi day is probably Zen's favorite day of the year. Since we have plans on March 14 this year (and I will be crazy busy preparing for our amazing [bakesale](http://vegandollhouse.com/blog/vegan-bakesale)), we decided to prepare for Pi day in advance.
 

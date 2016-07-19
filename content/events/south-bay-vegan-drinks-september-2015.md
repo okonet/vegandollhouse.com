@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "South Bay Vegan Drinks September 2015"
-section = "events"
-date = "2015-08-31 05:37:05 +0000"
-thumbnail = "/images/vd-sb-color-for-web.jpg"
-thumbnailAlt = "Southbay Vegan Drinks"
-description = "The Butcher's Son will be hosting a popup at vegan drinks this month!"
-tags = []
-+++
+---
+author: Robin Means
+date: 2015-08-31 05:37:05 +0000
+description: The Butcher's Son will be hosting a popup at vegan drinks this month!
+section: events
+tags: []
+thumbnail: /images/vd-sb-color-for-web.jpg
+thumbnailAlt: Southbay Vegan Drinks
+title: South Bay Vegan Drinks September 2015
+---
 
 ![South Bay Vegan Drinks September 2015 flier](/images/VDflier-Sept-web.png)
 

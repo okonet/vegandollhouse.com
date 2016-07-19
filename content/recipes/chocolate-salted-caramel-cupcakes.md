@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Chocolate Caramel Cupcakes"
-section = "recipes"
-date = "2014-11-09 23:03:25 +0000"
-thumbnail = "/images/caramel-drizzle.jpg"
-thumbnailAlt = "Vegan salted caramel cupcakes"
-description = "Vegan birthday cupcakes for Ashleigh and Isabelle's birthday dance party"
-tags = []
-+++
+---
+author: Robin Means
+date: 2014-11-09 23:03:25 +0000
+description: Vegan birthday cupcakes for Ashleigh and Isabelle's birthday dance party
+section: recipes
+tags: []
+thumbnail: /images/caramel-drizzle.jpg
+thumbnailAlt: Vegan salted caramel cupcakes
+title: Chocolate Caramel Cupcakes
+---
 
 ♫&nbsp;Listening to: Red Kiss by The Aikiu ♫
 

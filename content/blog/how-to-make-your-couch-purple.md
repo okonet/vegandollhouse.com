@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Make Your Own Purple Sofa"
-section = "blog"
-date = "2015-04-16 05:12:22 +0000"
-thumbnail = "/images/sofa6.jpg"
-thumbnailAlt = "Freshly dyed purple sofa"
-description = "How to dye your couch cover in a vegan-friendly way"
-tags = []
-+++
+---
+author: Robin Means
+date: 2015-04-16 05:12:22 +0000
+description: How to dye your couch cover in a vegan-friendly way
+section: blog
+tags: []
+thumbnail: /images/sofa6.jpg
+thumbnailAlt: Freshly dyed purple sofa
+title: Make Your Own Purple Sofa
+---
 
 I've wanted a purple couch for like ever. I see them now and then (about as often as I see purple cars) and admire them from afar. Since I tend not to spend much money on things that aren't edible (not including rent and bills), I don't usually get the chance to own specialty items (unless I make them myself or my friends gift them to me). Luckily (only because I'm a glass half-full type of person--otherwise, I would consider this quite unlucky), when David and I combined houses, I was basically gifted a very pale grayish-beigish Ikea Kivik sofa.
 

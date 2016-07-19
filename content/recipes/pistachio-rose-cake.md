@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Pistachio Rose Cake"
-section = "recipes"
-date = "2014-09-20 06:26:58 +0000"
-thumbnail = "/images/pistachio-rose-cake8.jpg"
-thumbnailAlt = "vegan pistachio rose cake"
-description = "Nephews have the strangest birthday cake flavor requests"
-tags = []
-+++
+---
+author: Robin Means
+date: 2014-09-20 06:26:58 +0000
+description: Nephews have the strangest birthday cake flavor requests
+section: recipes
+tags: []
+thumbnail: /images/pistachio-rose-cake8.jpg
+thumbnailAlt: vegan pistachio rose cake
+title: Pistachio Rose Cake
+---
 
 ♫&nbsp;Listening to: Morning Dove by Robinella and the CC Stringband ♫
 

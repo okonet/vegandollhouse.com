@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Lentil Lovelies"
-section = "recipes"
-date = "2015-12-24 06:00:30 +0000"
-thumbnail = "/images/lentil-lovelies5.jpg"
-thumbnailAlt = "Vegan Lentil Lovelies"
-description = "Now you can have cupcakes for dinner too!"
-tags = []
-+++
+---
+author: Robin Means
+date: 2015-12-24 06:00:30 +0000
+description: Now you can have cupcakes for dinner too!
+section: recipes
+tags: []
+thumbnail: /images/lentil-lovelies5.jpg
+thumbnailAlt: Vegan Lentil Lovelies
+title: Lentil Lovelies
+---
 
 ♫&nbsp;Listening to: Play by Fickle Friends ♫
 

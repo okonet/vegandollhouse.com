@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Vegan Nutella Pie"
-section = "recipes"
-date = "2014-06-30 06:23:49 +0000"
-thumbnail = "/images/nutella1.jpg"
-thumbnailAlt = "Nutella Pie"
-description = "Alternative to vegan chocolate cream pie"
-tags = []
-+++
+---
+author: Robin Means
+date: 2014-06-30 06:23:49 +0000
+description: Alternative to vegan chocolate cream pie
+section: recipes
+tags: []
+thumbnail: /images/nutella1.jpg
+thumbnailAlt: Nutella Pie
+title: Vegan Nutella Pie
+---
 
 #### Pie Ingredients:
 

@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Pixel Hearts"
-section = "blog"
-date = "2014-01-07 05:52:03 +0000"
-thumbnail = "/images/pixel-hearts.jpg"
-thumbnailAlt = ""
-description = "This world is too straight for your pixelated heart. ♫♫♫"
-tags = []
-+++
+---
+author: Robin Means
+date: 2014-01-07 05:52:03 +0000
+description: This world is too straight for your pixelated heart. ♫♫♫
+section: blog
+tags: []
+thumbnail: /images/pixel-hearts.jpg
+thumbnailAlt: ""
+title: Pixel Hearts
+---
 
 The entire time I was cutting these, I couldn't help but sing the [Video Game Heart](http://www.youtube.com/watch?v=tFQCgcUwqaI) song over and over. Pixelated hearts just always remind me of a heart in an old school video game, like when you're trying to see how much life your character has left.
 

@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "DIY food coloring"
-section = "blog"
-date = "2014-09-27 21:10:55 +0000"
-thumbnail = "/images/food-dye8.jpg"
-thumbnailAlt = "all-natural food coloring"
-description = "Make your own vegan food coloring"
-tags = []
-+++
+---
+author: Robin Means
+date: 2014-09-27 21:10:55 +0000
+description: Make your own vegan food coloring
+section: blog
+tags: []
+thumbnail: /images/food-dye8.jpg
+thumbnailAlt: all-natural food coloring
+title: DIY food coloring
+---
 
 So, I really like things that are cute and colorful. I try not to show favoritism between bright colors and pastel colors, but I will admit that when it comes to food, the bright colors catch my eye a lot more. A good example of this would be the difference between Let's Do Organic cake sprinkles and the rainbow sprinkles made by Lieber's. I know that the Let's Do Organic&nbsp;ones are better for me, but they're so light and barely noticeable when sprinkled atop white icing that I really prefer using the Lieber's. But then I end up only adding sprinkles to half of my cupcakes, so I don't have to actually eat the cute sprinkles. This is only one of the many slightly crazy things that I do, but it's worth noting, since it's kind of the inspiration for this endeavor.
 

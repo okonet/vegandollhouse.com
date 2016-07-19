@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Vegan Dollhousewarming"
-section = "blog"
-date = "2014-07-21 06:19:59 +0000"
-thumbnail = "/images/glass-of-sangria.jpg"
-thumbnailAlt = ""
-description = "Vegan Dollhouse + housewarming = vegan dollhousewarming"
-tags = []
-+++
+---
+author: Robin Means
+date: 2014-07-21 06:19:59 +0000
+description: Vegan Dollhouse + housewarming = vegan dollhousewarming
+section: blog
+tags: []
+thumbnail: /images/glass-of-sangria.jpg
+thumbnailAlt: ""
+title: Vegan Dollhousewarming
+---
 
 I'm sure that I've been doing a fair (fair = hardly tolerable) amount of complaining on here about how much moving sucks. Now, it's finally time to stop complaining (well, not completely, I mean I am me after all) and start bragging. Well, bragging is such an icky word. Let's instead use the phrase talking-about-how-much-better-the-new-dollhouse-is-than-the-old-one.
 

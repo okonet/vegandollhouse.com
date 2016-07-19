@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "DIY Vegan Butter"
-section = "blog"
-date = "2014-09-02 00:52:34 +0000"
-thumbnail = "/images/butter4.jpg"
-thumbnailAlt = "Homemade vegan butter"
-description = "Cheaper and healthier than buying earth balance"
-tags = []
-+++
+---
+author: Robin Means
+date: 2014-09-02 00:52:34 +0000
+description: Cheaper and healthier than buying earth balance
+section: blog
+tags: []
+thumbnail: /images/butter4.jpg
+thumbnailAlt: Homemade vegan butter
+title: DIY Vegan Butter
+---
 
 I got super excited recently to see that one of the food bloggers ([Tish P.](http://instagram.com/tpat35)) I follow on instagram made her own butter from scratch! I didn't even realize that was something people did. I thought you either bought earth balance or you didn't use butter. Those were the 2 options in my mind. I'm so naive.
 

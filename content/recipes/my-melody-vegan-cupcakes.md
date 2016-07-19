@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "My Melody Vegan Cupcakes"
-section = "recipes"
-date = "2015-05-31 16:53:30 +0000"
-thumbnail = "/images/my-melody-cupcakes2.png"
-thumbnailAlt = "My Melody Vegan Cupcakes"
-description = "the cutest vegan cupcakes I've ever made"
-tags = []
-+++
+---
+author: Robin Means
+date: 2015-05-31 16:53:30 +0000
+description: the cutest vegan cupcakes I've ever made
+section: recipes
+tags: []
+thumbnail: /images/my-melody-cupcakes2.png
+thumbnailAlt: My Melody Vegan Cupcakes
+title: My Melody Vegan Cupcakes
+---
 
 ♫&nbsp;Listening to: I'd Rather Dance with You by Kings of Leon ♫
 

@@ -1,13 +1,14 @@
-+++
-author = "Robin Means"
-title = "Sweet Potato Biscuit Thanksgiving Sandwich"
-section = "blog"
-date = "2013-12-01 01:10:36 +0000"
-thumbnail = "/images/heart.jpg"
-thumbnailAlt = "biscuit sandwich"
-description = "Vegan thanksgiving leftovers are most delicious when nestled inside of a sweet potato biscuit."
-tags = []
-+++
+---
+author: Robin Means
+date: 2013-12-01 01:10:36 +0000
+description: Vegan thanksgiving leftovers are most delicious when nestled inside of
+  a sweet potato biscuit.
+section: blog
+tags: []
+thumbnail: /images/heart.jpg
+thumbnailAlt: biscuit sandwich
+title: Sweet Potato Biscuit Thanksgiving Sandwich
+---
 
 I used to hate Thansgiving. I thought it was a day that celebrated an upsetting time in history by slaughtering millions of turkeys. However, I have now come to see that Thanksgiving is actually a day to celebrate 4 days off of work, quality time with family and friends (which apparently is now called friendsgiving, although I just discovered this yesterday so the PIC [people in charge] must have forgotten to send me the email informing me of the change), and a bountiful harvest. The only harvest I actually participated in this year were some really cute pale green pattypan squash and a plethora of late blooming heirloom tomatoes. However, since farmer's market is only 2 blocks away, I'm celebrating all the yumminess that my local farmers harvested this year.
 

@@ -1,13 +1,14 @@
-+++
-author = "Robin Means"
-title = "Beet-ing Hearts"
-section = "recipes"
-date = "2014-01-04 05:28:55 +0000"
-thumbnail = "/images/beet-hearts.jpg"
-thumbnailAlt = ""
-description = "You can cut your beets into anatomically correct hearts if that's your thing."
-tags = []
-+++
+---
+author: Robin Means
+date: 2014-01-04 05:28:55 +0000
+description: You can cut your beets into anatomically correct hearts if that's your
+  thing.
+section: recipes
+tags: []
+thumbnail: /images/beet-hearts.jpg
+thumbnailAlt: ""
+title: Beet-ing Hearts
+---
 
 #### Beet Ingredients:
 

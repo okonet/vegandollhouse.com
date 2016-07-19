@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Vegan Pizza Pockets"
-section = "recipes"
-date = "2013-09-02 22:42:29 +0000"
-thumbnail = "/images/pizza-heart-ingredients.jpg"
-thumbnailAlt = ""
-description = "Not a hot pocket. Not a calzone. Let's call it a stuffed pizza pocket."
-tags = []
-+++
+---
+author: Robin Means
+date: 2013-09-02 22:42:29 +0000
+description: Not a hot pocket. Not a calzone. Let's call it a stuffed pizza pocket.
+section: recipes
+tags: []
+thumbnail: /images/pizza-heart-ingredients.jpg
+thumbnailAlt: ""
+title: Vegan Pizza Pockets
+---
 
 Hot pockets were one of those foods my parents would never buy, which made me want them even more. When I got older, I had a calzone, which I thought was a huge hot pocket, but turned out to be filled with ricotta instead of mozerella...gross! I somehow managed to make this just out of ingredients I bought from Costco (except for the yeast, which I always have at home because it stays good in the fridge for like ever and takes up a teeny tiny amount of room).
 

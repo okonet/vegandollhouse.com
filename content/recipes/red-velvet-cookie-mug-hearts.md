@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Red Velvet Cookie Mug Hearts"
-section = "recipes"
-date = "2014-12-26 06:22:56 +0000"
-thumbnail = "/images/HVF26c.jpg"
-thumbnailAlt = "Red Velvet Heart Teacup Cookie"
-description = "Like wearing your heart on your sleeve, but on a mug"
-tags = []
-+++
+---
+author: Robin Means
+date: 2014-12-26 06:22:56 +0000
+description: Like wearing your heart on your sleeve, but on a mug
+section: recipes
+tags: []
+thumbnail: /images/HVF26c.jpg
+thumbnailAlt: Red Velvet Heart Teacup Cookie
+title: Red Velvet Cookie Mug Hearts
+---
 
 ♫&nbsp;Listening to: I'm Sorry by Steffaloo ♫
 

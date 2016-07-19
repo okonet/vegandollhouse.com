@@ -1,13 +1,13 @@
-+++
-author = "Robin Means"
-title = "Vegan Yogurt Tasting"
-section = "blog"
-date = "2015-12-18 02:08:26 +0000"
-thumbnail = "/images/yogurt3.jpg"
-thumbnailAlt = "Vegan yogurt blind taste test"
-description = "15 vegan yogurts. 3 criteria. Find out who wins."
-tags = []
-+++
+---
+author: Robin Means
+date: 2015-12-18 02:08:26 +0000
+description: 15 vegan yogurts. 3 criteria. Find out who wins.
+section: blog
+tags: []
+thumbnail: /images/yogurt3.jpg
+thumbnailAlt: Vegan yogurt blind taste test
+title: Vegan Yogurt Tasting
+---
 
 Kite Hill sent me some yogurt and offered to reimburse me for the purchase of other dairy-free yogurt in order to conduct a professional-quality taste test. Since Kite Hill is already my favorite brand, and I would choose it over other non-dairy yogurts in a blind taste test anyday, I decided I should invite some unbiased friends over to help me with this activity.
 
