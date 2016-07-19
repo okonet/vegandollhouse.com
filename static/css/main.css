@@ -1,207 +1,386 @@
-* {
-    box-sizing: border-box;
+/******* COLORS *******/
+
+:root {
+  --sky: #63D3FF;
+  --violet: #9061C2;
+  --sailing: #02779E;
+  --lilac: #BE80FF;
+  --pink: #FF548F;
+
+  --pale-lilac: #F4EAFF;
+  --pale-sky: #E3F1F7;
 }
 
+.dark-blue {
+  color: #02182B;
+}
+
+.mustard {
+  color: #F5B15A;
+}
+
+.purple {
+  color: #561779;
+}
+
+/******* END - COLORS *******/
+
+/******* GENERAL *******/
+
 body {
-    font-family: "Helvetica Neue",Helvetica,arial,nimbussansl,liberationsans,freesans,clean,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
-    font-size: 1rem;
-    margin: 0;
-    background-color: rgba(86, 23, 121, .05);
+  background: var(--pale-sky);
+  font-family: "Lato", sans-serif;
+}
+
+h4 {
+  color: var(--violet);
+  font-variant: small-caps;
+  font-weight: 300;
 }
 
 a {
-	color: #561779;
-    text-decoration: none;
-    background-color: transparent;
+  color: var(--sailing);
 }
 
 a:hover {
-    text-decoration: none;
+  color: var(--sky);
+  text-decoration: none;
 }
 
-footer {
-    margin-top: 3rem;
+a:focus {
+  text-decoration: none;
 }
 
-.container {
-    width: auto;
-    max-width: 1200px;
-    padding-left: 20px;
-    padding-right: 20px;
+.hidden {
+  display: none;
 }
 
-.columns {
-	margin-right: 0;
-	margin-left: 0;
+/******* END - GENERAL *******/
+
+/******* HEADER *******/
+
+.nav {
+  margin-top: 2rem;
 }
 
-.masthead {
-    padding-top: 1rem;
-    padding-bottom: 1rem;
-    text-align: center;
-    background-color: #561779;
+.navbar {
+  background: #fff;
+  padding: 2em 1em;
 }
 
-.masthead .landscape {
-    padding-left: 1rem;
-    padding-right: 1rem;
+.navbar .nav a.nav-link {
+  display: inline-block;
+  font-size: 1.5em;
+  text-align: center;
+  color: var(--violet);
 }
 
-@media (min-width: 34em) {
-    .masthead .masthead-logo {
-        float: left;
-    }
+.navbar .nav a.nav-link:hover {
+  color: var(--sky);
 }
 
-.masthead .masthead-logo {
-    display: inline-block;
-    font-size: 2.5rem;
-    color: #fff;
-    font-family: "Sacramento", cursive;
+.navbar-light .navbar-nav .nav-link:focus {
+  color: var(--violet);
 }
 
-.masthead .masthead-logo img {
-    float: left;
-    margin-right: .5rem;
-    width: 4rem;
+.navbar .nav a.nav-link.active,
+.navbar .nav a.nav-link.active:hover,
+.navbar .nav a.nav-link.active:focus {
+  color: var(--violet);
+  text-decoration: underline;
 }
 
-@media (min-width: 34em) {
-    .masthead-nav {
-        float: right;
-        margin-top: .5rem;
-    }
+a.logo {
+  color: var(--violet);
+  font-size: 4rem;
+  font-family: "Sacramento", cursive;
+  background: url(/images/vd-logo.svg) no-repeat top left;
+  background-size: contain;
+  padding-left: 6rem;
 }
 
-.masthead-nav {
-    font-size: 1rem;
+a.logo:hover {
+  color: var(--sky);
+  background: url(/images/vd-logo-sky.svg) no-repeat top left;
+  background-size: contain;
 }
 
-.masthead-nav a {
-    display: inline-block;
-    color: #fff;
-    margin-left: .5rem;
+a.logo:focus {
+  color: var(--violet);
 }
 
-.masthead-nav .fa-search {
-	color: #561779;
+@media (max-width: 480px) {
+  a.logo {
+    font-size: 3rem;
+  }
+
+  .navbar .nav a.nav-link {
+    font-size: 1.4rem;
+  }
+
+  .pull-xs-right {
+    float: none;
+  }
 }
 
-.main .columns {
-    margin-top: 3rem;
+.search-bar {
+  padding: 0 2rem;
 }
 
-.carousel {
-    position: relative;
-    overflow: hidden;
-    padding-left: 1rem;
-    padding-right: 1rem;
+.search-bar input {
+  background: transparent;
+  color: #707070;
+  font-size: 1.5rem;
+  line-height: 8.4rem;
+  font-weight: 300;
+  display: block;
+  width: 100%;
+  max-width: 960px;
+  height: 84px;
+  border: none;
 }
 
-.carousel .landscape {
-    position: relative;
-    overflow: hidden;
-    background-color: #fff;
+.search-bar input:focus {
+  outline: none;
 }
 
-.carousel .column {
-    padding: 0;
+/******* END - HEADER *******/
+
+/******* MAIN CONTAINER *******/
+
+.card {
+  border-radius: .50rem;
+  border: 0;
 }
 
-.carousel .two-thirds {
+.card-img-top {
+  border-radius: .50rem .50rem 0 0;
+}
+
+
+.card-title {
+  color: var(--sailing);
+  font-variant: normal;
+  font-weight: normal;
+}
+
+.main {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  padding-bottom: 2rem;
+}
+
+.featured {
+  background: #fff;
+  padding: 0;
+  position: relative;
+  overflow: hidden;
+  background-color: #fff;
+  border-radius: .50rem;
+}
+
+.featured-panel {
     width: 62%;
     float: left;
 }
 
-.carousel img {
+.featured img {
     max-width: 100%;
 }
 
-.carousel .one-third {
+.featured-display {
     padding: 1rem;
     width: 38%;
+    float: left;
+    overflow: hidden;
+    height: 459px;
 }
 
-.carousel .title {
-    padding-top: 2rem;
-    font-family: "Sacramento";
-    font-size: 2.3rem;
+.featured-footer {
+  bottom: 35px;
+  position: absolute;
 }
 
-.carousel .description {
-    padding-top: 4rem;
+@media (max-width: 990px) {
+  .featured-panel {
+    width: 100%;
+    padding: 0;
+    float: none;
+  }
 }
 
-/* Line header */
+@media (max-width: 480px) {
+  .featured-display {
+    padding-top: 0;
+    margin: 0;
+    width: 100%;
+    height: 350px;
+  }
 
-.line-header {
-	display: block;
-	position: relative;
-	overflow: hidden;
-	padding: 1rem 1rem 0 1rem;
+  .featured-footer {
+    margin-top: 3rem;
+  }
 }
 
-.line-header div {
-    border-bottom: 1px solid #561779;
-	font-family: "Sacramento";
-    font-size: 2rem;
-    padding-bottom: .5rem;
+.featured .title {
+  padding-top: 2rem;
+  font-family: "Sacramento";
+  font-size: 2.3rem;
 }
 
-/* Cards */
-
-.columns.cards {
-    margin-top: 1rem;
+.card-columns {
+  margin-top: 2rem;
 }
 
-.card {
-	display: block;
-	position: relative;
-	overflow: hidden;
-	padding: 1rem 1rem 0 1rem;
+.card-title {
+  font-family: "Sacramento";
+  font-size: 2.3rem;
 }
 
-.card div {
-	background: white;
+.content,
+.comments {
+  background: #fff;
+  border-radius: .50rem;
 }
 
-.card .info {
-    padding: .5rem;
+.comments {
+  padding: 2rem;
 }
 
-.card .info p {
-    margin-top: 1rem;
+.content header {
+  text-align: center;
+  font-family: "Sacramento";
+  padding: 2rem 2rem 0 2rem;
 }
 
-.info .title {
-	font-family: "Sacramento";
-    font-size: 2rem;
+.content img {
+  display: block;
+  margin: 0 auto;
+  border-radius: .50rem;
+  margin-top: 2rem;
+  margin-bottom: .8rem;
+  max-width: 100%;
 }
 
-.card .recipe {
-	border-bottom: 8px solid #2A9E90;
-	max-width: 100%;
+.content div {
+  padding: 0 6rem;
 }
 
-.card .post {
-	border-bottom: 8px solid #86BBD8;
-	max-width: 100%;
+.about {
+  padding: 2rem 6rem;
 }
 
-/* Blog */
-
-.blog {
-    background-color: white;
+.song {
+  text-align: center;
+  color: #02182B;
+  letter-spacing: 1.5px;
 }
 
-.blog img {
-    max-width: 100%;
+article h4 {
+  padding-top: 1rem;
 }
 
-.blog .title {
-    padding-top: 2rem;
-    margin-bottom: 5rem;
-    font-family: "Sacramento";
-    font-size: 3rem;
-    text-align: center;
+article header h1 {
+  color: var(--sailing);
 }
+
+article ul li {
+  padding-left: 1.2em;
+  list-style: none;
+}
+
+article ul li:before {
+  content: "\f004";
+  font-family: FontAwesome;
+  display: inline-block;
+  margin-left: -2em;
+  width: 1.8em;
+  font-size: .6em;
+  vertical-align: middle;
+  color: var(--violet);
+}
+
+.pager li>a,
+.pager li>a:hover,
+.pager li>a:focus {
+  background-color: var(--pale-lilac);
+}
+
+/******* SHARE POST *******/
+
+.fixedsticky {
+  top: 0;
+}
+
+.share-this-post {
+  position: relative;
+  margin: 3em auto;
+  text-align: center;
+}
+
+@media (min-width: 992px) {
+  .share-this-post {
+    margin: 0;
+  }
+
+  .share-page.affix-bottom, .share-page.affix-top {
+    position: absolute;
+  }
+
+  .share-page.affix-top {
+    top: 45px;
+  }
+
+  .share-this-post a {
+    margin-bottom: 10px;
+  }
+
+  .share-page {
+    display: block;
+    position: absolute;
+    left: -60px;
+    width: 48px;
+    z-index: 5;
+    padding-top: 1rem;
+  }
+
+  .share-page.affix {
+    position: fixed;
+    top: 45px;
+  }
+}
+
+.share-this-post a {
+  margin: 0 10px;
+}
+
+.share-page a {
+  background: rgba(236,236,236,.45);
+  border-radius: 100px;
+  color: rgba(42,42,42,.1);
+}
+
+.icon-twitter:hover {
+  color: #04aceb;
+}
+
+.icon-facebook:hover {
+  color: rgb(59, 89, 152);
+}
+
+.icon-email:hover {
+  color: #02182B;  
+}
+
+/******* END - SHARE POST *******/
+
+/******* END - MAIN CONTAINER *******/
+
+/****** FOOTER ******/
+
+footer {
+  background-color: #02182B;
+  padding: 2em 1em 4em 1em;
+}
+
+/****** END - FOOTER ******/
