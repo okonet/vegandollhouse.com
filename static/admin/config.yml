@@ -6,9 +6,43 @@ backend:
 media_folder: "static/images" # Folder where user uploaded files should go
 
 collections: # A list of collections the CMS should be able to edit
-  - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Post" # Used in the UI, ie.: "New Post"
+  - name: "posts" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Blog Posts" # Used in the UI, ie.: "New Post"
     folder: "content/blog" # The path to the folder where the documents are stored
+    sort: "date:desc" # Default is title:asc
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}"
+    fields: # The fields each document in this collection have
+      - {label: "Author", name: "author", widget: "string"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Thumbnail", name: "thumbnail", widget: "image"}
+      - {label: "ThumbnailAlt", name: "thumbnailAlt", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+    meta: # Meta data fields. Just like fields, but without any preview element
+      - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"}
+    card: {type: "image", image: "thumbnail", text: "title"}
+
+  - name: "events"
+    label: "Events" # Used in the UI, ie.: "New Post"
+    folder: "content/events" # The path to the folder where the documents are stored
+    sort: "date:desc" # Default is title:asc
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}-{{month}}-{{year}}"
+    fields: # The fields each document in this collection have
+      - {label: "Author", name: "author", widget: "string"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Thumbnail", name: "thumbnail", widget: "image"}
+      - {label: "ThumbnailAlt", name: "thumbnailAlt", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+    meta: # Meta data fields. Just like fields, but without any preview element
+      - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"}
+    card: {type: "image", image: "thumbnail", text: "title"}
+
+  - name: "recipes" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Recipes" # Used in the UI, ie.: "New Post"
+    folder: "content/recipes" # The path to the folder where the documents are stored
     sort: "date:desc" # Default is title:asc
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}"
