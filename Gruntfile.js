@@ -1,4 +1,4 @@
-var toml = require("toml");
+var yaml = require('js-yaml');
 var S = require("string");
 
 var CONTENT_PATH_PREFIX = "content";
@@ -35,10 +35,10 @@ module.exports = function(grunt) {
             var content = grunt.file.read(abspath);
             var href = S(abspath).chompLeft(CONTENT_PATH_PREFIX).chompRight(".html").s;
 
-            content = content.split("+++");
+            content = content.split("---");
             var frontMatter;
             try {
-                frontMatter = toml.parse(content[1].trim());
+                frontMatter = yaml.load(content[1].trim());
             } catch (e) {
                 conzole.failed(e.message);
             }
@@ -47,7 +47,7 @@ module.exports = function(grunt) {
             return {
                 title: frontMatter.title,
                 tags: frontMatter.tags,
-                section: frontMatter.section, 
+                section: frontMatter.section,
                 thumbnail: frontMatter.thumbnail,
                 date: frontMatter.date,
                 description: frontMatter.description,
@@ -59,10 +59,10 @@ module.exports = function(grunt) {
         var processMDFile = function(abspath, filename) {
             var content = grunt.file.read(abspath);
             // First separate the Front Matter from the content and parse it
-            content = content.split("+++");
+            content = content.split("---");
             var frontMatter;
             try {
-                frontMatter = toml.parse(content[1].trim());
+                frontMatter = yaml.load(content[1].trim());
             } catch (e) {
                 conzole.failed(e.message);
             }
@@ -77,7 +77,7 @@ module.exports = function(grunt) {
             return {
                 title: frontMatter.title,
                 tags: frontMatter.tags,
-                section: frontMatter.section, 
+                section: frontMatter.section,
                 thumbnail: frontMatter.thumbnail,
                 date: frontMatter.date,
                 description: frontMatter.description,
