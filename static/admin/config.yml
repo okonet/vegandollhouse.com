@@ -21,7 +21,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Body", name: "body", widget: "markdown"}
     meta: # Meta data fields. Just like fields, but without any preview element
       - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"}
-    card: {type: "image", image: "thumbnail", text: "title"}
+    card: {type: "image", image: "thumbnail", text: "title", description: "description"}
 
   - name: "events"
     label: "Events" # Used in the UI, ie.: "New Post"
@@ -38,7 +38,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Body", name: "body", widget: "markdown"}
     meta: # Meta data fields. Just like fields, but without any preview element
       - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"}
-    card: {type: "image", image: "thumbnail", text: "title"}
+    card: {type: "image", image: "thumbnail", text: "title", description: "description"}
 
   - name: "recipes" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Recipes" # Used in the UI, ie.: "New Post"
@@ -55,4 +55,4 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Body", name: "body", widget: "markdown"}
     meta: # Meta data fields. Just like fields, but without any preview element
       - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"}
-    card: {type: "image", image: "thumbnail", text: "title"}
+    card: {type: "image", image: "thumbnail", text: "title", description: "description"}
