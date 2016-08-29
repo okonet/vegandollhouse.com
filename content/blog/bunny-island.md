@@ -1,15 +1,15 @@
 ---
-author: Robin Means
-date: 2015-10-20 07:32:28 +0000
-description: Vegan Okunoshima adventure
 section: blog
-tags: []
+author: Robin Means
 thumbnail: /images/bunnyisland3.jpg
-thumbnailAlt: bunny island
+date: '2015-10-20 07:32:28 +0000'
 title: Bunny Island
+tags: []
+description: Vegan Okunoshima adventure
+thumbnailAlt: bunny island
 ---
 
-Can you think of the happiest you've ever been in your life? Maybe there are a lot of different experiences that come to mind. Mine was a couple of weeks ago on Bunny Island. My life is basically downhill from here, haha.
+Can you think of the happiest you've ever been in your life? Maybe there are a lot of different experiences that come to mind. Mine was a couple of weeks ago on Bunny Island. My life is basically downhill from here, hahaha.
 
 I should probably start by admitting that I don't really go outside. I'm not outdoorsy. I don't spend my weekend mornings hiking. I don't camp. It's just not really my thing. So, it is possible that part of the euphoric experience of Okunoshima for me was just being in nature.
 
@@ -33,23 +33,23 @@ The ferry ride to the island makes you feel like you're in a scene from Jurassic
 
 The hotel was a traditional Japanese hotel, so at 6pm or so, they come around to your room and lay out your sleeping pads on the japanese mat floors. There's a toilet and a sink in your room, but the showers are in the public onsen, so if you go, I hope you don't have an issue with being next to naked people...while you're naked...and if you're me, you might have to watch other people shower so that you can learn what to do because you've never been in an onsen before. And that's not awkward at all!
 
-Don't worry, I waited until I was alone before taking these pictures&nbsp;of the onsen. Just because I stare at people while they shower doesn't mean I don't know where the line is drawn and when not to cross it (except for those times when I just touch my toe across the line, but that doesn't count, right?)
+Don't worry, I waited until I was alone before taking these pictures of the onsen. Just because I stare at people while they shower doesn't mean I don't know where the line is drawn and when not to cross it \(except for those times when I just touch my toe across the line, but that doesn't count, right?\)
 
 ![bunny island onsen](/images/bunny-island-onsen.jpg)
 
 ![bunny island onsen](/images/bunny-island-onsen2.jpg)
 
-The hotel comes with an all-you-can-eat buffet for dinner and breakfast. I just assumed there would be nothing I could eat, so I packed a lot of snacks for the trip. However, to my surprise, the staff were really helpful (and the other tourists too!), so I was able to find quite a lot of vegan food to eat there! I still recommend bringing snacks though, because the hotel doesn't provide lunch, and the trip to and from the island is a long journey in itself. Here's a picture of some of the food that was vegan on the breakfast buffet.
+The hotel comes with an all-you-can-eat buffet for dinner and breakfast. I just assumed there would be nothing I could eat, so I packed a lot of snacks for the trip. However, to my surprise, the staff were really helpful \(and the other tourists too!\), so I was able to find quite a lot of vegan food to eat there! I still recommend bringing snacks though, because the hotel doesn't provide lunch, and the trip to and from the island is a long journey in itself. Here's a picture of some of the food that was vegan on the breakfast buffet.
 
 ![okunoshima island hotel vegan food](/images/bunnyislandbuffet.jpg)
 
 There was also cold tofu, seaweed salad, and other things that I didn't care for.
 
-In addition to bringing snacks for you, you may want to bring snacks for the bunnies. This is a decision each vegan must make for his/herself. The island doesn't sell food for the purpose of not wanting the bunnies to become reliant on being fed. There are plenty of plants on the island that they can eat, so I think the ideal situation is to let them eat what they are meant to eat. However, I was gifted a bag of grass pellets from a japanese girl, and I fed the bunnies every last pellet. It made them come to me and sit on my lap, and made me the happiest I've ever been in life, so when I go back, I will be feeding them. I hope that doesn't make me a bad vegan.
+In addition to bringing snacks for you, you may want to bring snacks for the bunnies. This is a decision each vegan must make for his\/herself. The island doesn't sell food for the purpose of not wanting the bunnies to become reliant on being fed. There are plenty of plants on the island that they can eat, so I think the ideal situation is to let them eat what they are meant to eat. However, I was gifted a bag of grass pellets from a japanese girl, and I fed the bunnies every last pellet. It made them come to me and sit on my lap, and made me the happiest I've ever been in life, so when I go back, I will be feeding them. I hope that doesn't make me a bad vegan.
 
 I created a youtube channel specifically for videos of Bunny Island, so if you'd like to see bunnies hopping around in their natural habitat, [check them out](https://www.youtube.com/channel/UCwkKvKR-QXtX3y-fGohNiUw). Oh, and youtube won't let me change my URL for my channel until I have 100 followers, so please subscribe to my channel while you're there.
 
-And if you don't like videos of bunnies (that's obviously impossible), here are some pictures of the bunnies.
+And if you don't like videos of bunnies \(that's obviously impossible\), here are some pictures of the bunnies.
 
 ![bunny island](/images/bunnyisland2.jpg)
 
@@ -81,7 +81,7 @@ If you look in the sky of this picture, you can see the crow flying. When the cr
 
 ![bunny island](/images/bunnyisland12.jpg)
 
-Some naughty bunny figured out where the food was coming from and decided to cut out the middleman (me).
+Some naughty bunny figured out where the food was coming from and decided to cut out the middleman \(me\).
 
 ![bunny island](/images/bunnyisland13.jpg)
 
