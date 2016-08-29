@@ -1,23 +1,21 @@
 ---
-author: Robin Means
-date: 2015-08-17 04:13:34 +0000
-description: '...and how to make a pig from a watermelon'
 section: blog
-tags: []
+author: Robin Means
 thumbnail: /images/pig5.jpg
-thumbnailAlt: watermelon pig
+date: '2015-08-17 04:13:34 +0000'
 title: Bay Area Vegan Potluck 2015
+tags: []
+description: ...and how to make a pig from a watermelon
+thumbnailAlt: watermelon pig
 ---
 
 I typically don't bring melon to potlucks because I know our bodies digest melon differently than other foods, so it's best to eat it by itself. However, I couldn't think of a cuter way to serve sangria than from a piggy.
-
-{{< youtube Qsxyyt-mlGs >}}
 
 I started by sketching out some plans.
 
 ![plans for carving a watermelon pig](/images/pig1.jpg)
 
-Step 1: Cut out the top piece (I drew the line first to make sure I didn't mess up).
+Step 1: Cut out the top piece \(I drew the line first to make sure I didn't mess up\).
 
 ![Step 1](/images/pig2.jpg)
 
@@ -47,7 +45,7 @@ Jen of [whollyvegan](http://www.whollyvegan.net/) made these yummy and cutely ga
 
 ![vegan deviled potatoes](/images/deviled-potatoes.jpg)
 
-[Roshi](https://instagram.com/roshibrian/) made these super cute Dadar Gulung (coconut pandanus pancake) in a variety of different colors.
+[Roshi](https://instagram.com/roshibrian/) made these super cute Dadar Gulung \(coconut pandanus pancake\) in a variety of different colors.
 
 ![Coconut Pandanus Pancake or DADAR GULUNG](/images/roshi.jpg)
 
@@ -55,4 +53,5 @@ I think Jen also made these.
 
 ![glazed tofu kebabs](/images/tofu.jpg)
 
-I had a great time, and I'm glad Rosie invited me to this annual potluck she organizes with Jen and RG. If you want to see more pictures from the event, check out the hashtag #bayareaveganpotluck
+I had a great time, and I'm glad Rosie invited me to this annual potluck she organizes with Jen and RG. If you want to see more pictures from the event, check out the hashtag \#bayareaveganpotluck
+
