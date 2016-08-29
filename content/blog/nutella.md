@@ -1,14 +1,14 @@
 ---
-thumbnail: images/nutella1.jpg
-author: cassio
+author: Cassio Zen
 title: Nutella
-thumbnailAlt: nutella
-description: NUTELLA!
+thumbnail: images/nutella_pic_2.jpg
+thumbnailAlt: Nutella is great
+description: Everybody loves nutella
 ---
 
-NUTELLA
+Look at that:
 
-![](blob:http://localhost:1313/73b10414-a32f-494d-b657-c62965208019)
+![](images/nutella_pic_1.jpg)
 
-nham
+Amazing
 
