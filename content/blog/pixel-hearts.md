@@ -1,19 +1,19 @@
 ---
-author: Robin Means
-date: 2014-01-07 05:52:03 +0000
-description: This world is too straight for your pixelated heart. ♫♫♫
 section: blog
-tags: []
+author: Robin Means
 thumbnail: /images/pixel-hearts.jpg
-thumbnailAlt: ""
+date: '2014-01-07 05:52:03 +0000'
 title: Pixel Hearts
+tags: []
+description: This world is too straight for your pixelated heart. ♫♫♫
+thumbnailAlt: ''
 ---
 
-The entire time I was cutting these, I couldn't help but sing the [Video Game Heart](http://www.youtube.com/watch?v=tFQCgcUwqaI) song over and over. Pixelated hearts just always remind me of a heart in an old school video game, like when you're trying to see how much life your character has left.
+The entire time I was cutting these, I couldn't help but sing the [Video Game Heart](http://www.youtube.com/watch?v=tFQCgcUwqaI) song over and over. Pixelated hearts just always remind me of a heart in an old school video game, like when you're trying to see how much life your character has left!
 
-They also remind me of Jessica's Pixel Pop Dev (former?) website that was full of cute things.
+They also remind me of Jessica's Pixel Pop Dev \(former?\) website that was full of cute things.
 
-They also remind me of [making things out of perler beads](http://ieatcupcakes.tumblr.com/post/39860029092/what-can-i-make-on-a-rainy-day-hint-it-cant-be) and how you can never fully get something to look the way you think it should unless you make it enourmous and buy 3874986 packs of perler beads, risking the cashier flagging you as a potential psychopath (which is why they have google shopping express...let someone else look like the psychopath for a change, right?). Perler bead hearts kinda resemble these watermelon radish pixel hearts.
+They also remind me of [making things out of perler beads](http://ieatcupcakes.tumblr.com/post/39860029092/what-can-i-make-on-a-rainy-day-hint-it-cant-be) and how you can never fully get something to look the way you think it should unless you make it enourmous and buy 3874986 packs of perler beads, risking the cashier flagging you as a potential psychopath \(which is why they have google shopping express...let someone else look like the psychopath for a change, right?\). Perler bead hearts kinda resemble these watermelon radish pixel hearts.
 
 ![](/images/pixel-hearts.jpg)
 
