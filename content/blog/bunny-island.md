@@ -9,7 +9,7 @@ description: Vegan Okunoshima adventure
 thumbnailAlt: bunny island
 ---
 
-Can you think of the happiest you've ever been in your life? Maybe there are a lot of different experiences that come to mind. Mine was a couple of weeks ago on Bunny Island. My life is basically downhill from here, hahaha.
+Can you think of the happiest you've ever been in your life? Maybe there are a lot of different experiences that come to mind. Mine was a couple of weeks ago on Bunny Island. My life is basically downhill from here.
 
 I should probably start by admitting that I don't really go outside. I'm not outdoorsy. I don't spend my weekend mornings hiking. I don't camp. It's just not really my thing. So, it is possible that part of the euphoric experience of Okunoshima for me was just being in nature.
 
@@ -33,7 +33,7 @@ The ferry ride to the island makes you feel like you're in a scene from Jurassic
 
 The hotel was a traditional Japanese hotel, so at 6pm or so, they come around to your room and lay out your sleeping pads on the japanese mat floors. There's a toilet and a sink in your room, but the showers are in the public onsen, so if you go, I hope you don't have an issue with being next to naked people...while you're naked...and if you're me, you might have to watch other people shower so that you can learn what to do because you've never been in an onsen before. And that's not awkward at all!
 
-Don't worry, I waited until I was alone before taking these pictures of the onsen. Just because I stare at people while they shower doesn't mean I don't know where the line is drawn and when not to cross it \(except for those times when I just touch my toe across the line, but that doesn't count, right?\)
+Don't worry, I waited until I was alone before taking these pictures of the onsen. Just because I stare at people while they shower doesn't mean I don't know where the line is drawn and when not to cross it \(except for those times when I just touch my toe across the line, but that doesn't count, right?\)
 
 ![bunny island onsen](/images/bunny-island-onsen.jpg)
 
