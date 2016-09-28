@@ -11,6 +11,10 @@ thumbnailAlt: watermelon pig
 
 I typically don't bring melon to potlucks because I know our bodies digest melon differently than other foods, so it's best to eat it by itself. However, I couldn't think of a cuter way to serve sangria than from a piggy!
 
+
+![Screen Shot 2013-07-17 at 10.42.21.png](/static/images/Screen Shot 2013-07-17 at 10.42.21.png)
+
+
 I started by sketching out some plans.
 
 ![plans for carving a watermelon pig](/images/pig1.jpg)
