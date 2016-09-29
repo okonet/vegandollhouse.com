@@ -15,6 +15,10 @@ I typically don't bring melon to potlucks because I know our bodies digest melon
 ![Screen Shot 2013-07-17 at 10.42.21.png](/static/images/Screen Shot 2013-07-17 at 10.42.21.png)
 
 
+
+![after.png](/static/images/after.png)
+
+
 I started by sketching out some plans.
 
 ![plans for carving a watermelon pig](/images/pig1.jpg)
